@@ -1,0 +1,1009 @@
+Cumulative Visit,Study Area,Site,,AreaSite,Species,SumOfInvestigative,SumOfCloseness,Pics_Visit,Prop_Investigative,Prop_Close,VegType
+789,Blanding,Site,27,BlandingSite27,Coyote,3,0,3,1,0,Barren
+792,Blanding,Site,27,BlandingSite27,Coyote,0,0,3,0,0,Barren
+854,BLM,Site,160,BLMSite160,Coyote,2,1,3,0.666666667,0.333333333,Barren
+623,BLM,Site,38,BLMSite38,Coyote,6,6,6,1,1,Barren
+624,BLM,Site,38,BLMSite38,Coyote,4,6,6,0.666666667,1,Barren
+632,BLM,Site,38,BLMSite38,Coyote,0,0,3,0,0,Barren
+507,Dugway,Site,16,DugwaySite16,Coyote,2,0,3,0.666666667,0,Barren
+668,Hanksville,Site,80,HanksvilleSite80,Coyote,2,1,2,1,0.5,Barren
+274,Hill Air Force,Site,D2,Hill Air ForceSiteD2,Coyote,9,9,9,1,1,Barren
+777,Hill Air Force,Site,N6,Hill Air ForceSiteN6,Coyote,1,0,3,0.333333333,0,Barren
+261,Hill Air Force,Site,Y1,Hill Air ForceSiteY1,Coyote,3,2,3,1,0.666666667,Barren
+262,Hill Air Force,Site,Y1,Hill Air ForceSiteY1,Coyote,3,3,3,1,1,Barren
+263,Hill Air Force,Site,Y1,Hill Air ForceSiteY1,Coyote,1,1,3,0.333333333,0.333333333,Barren
+535,BLM,Site,161,BLMSite161,KitFox,7,6,7,1,0.857142857,Barren
+571,BLM,Site,161,BLMSite161,KitFox,2,2,4,0.5,0.5,Barren
+426,BLM,Site,38,BLMSite38,KitFox,2,2,2,1,1,Barren
+665,BLM,Site,38,BLMSite38,KitFox,0,0,3,0,0,Barren
+671,BLM,Site,38,BLMSite38,KitFox,2,0,2,1,0,Barren
+287,Dugway,Site,20,DugwaySite20,KitFox,0,0,1,0,0,Barren
+449,Dugway,Site,32,DugwaySite32,KitFox,8,7,8,1,0.875,Barren
+450,Dugway,Site,32,DugwaySite32,KitFox,3,3,6,0.5,0.5,Barren
+454,Dugway,Site,32,DugwaySite32,KitFox,3,3,3,1,1,Barren
+474,Dugway,Site,32,DugwaySite32,KitFox,4,4,6,0.666666667,0.666666667,Barren
+280,Dugway,Site,9,DugwaySite9,KitFox,9,6,9,1,0.666666667,Barren
+281,Dugway,Site,9,DugwaySite9,KitFox,2,3,3,0.666666667,1,Barren
+292,Dugway,Site,9,DugwaySite9,KitFox,3,3,3,1,1,Barren
+293,Dugway,Site,9,DugwaySite9,KitFox,3,3,3,1,1,Barren
+297,Dugway,Site,9,DugwaySite9,KitFox,3,2,3,1,0.666666667,Barren
+685,Hanksville,Site,80,HanksvilleSite80,KitFox,8,6,11,0.727272727,0.545454545,Barren
+681,Hanksville,Site,99,HanksvilleSite99,KitFox,0,0,3,0,0,Barren
+12,Hill Air Force,Site,B15,Hill Air ForceSiteB15,KitFox,6,4,6,1,0.666666667,Barren
+69,Hill Air Force,Site,B15,Hill Air ForceSiteB15,KitFox,3,0,3,1,0,Barren
+70,Hill Air Force,Site,B15,Hill Air ForceSiteB15,KitFox,3,2,3,1,0.666666667,Barren
+122,Hill Air Force,Site,B15,Hill Air ForceSiteB15,KitFox,6,6,6,1,1,Barren
+130,Hill Air Force,Site,B15,Hill Air ForceSiteB15,KitFox,3,3,3,1,1,Barren
+723,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,9,8,12,0.75,0.666666667,Barren
+724,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,3,3,3,1,1,Barren
+725,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,6,6,6,1,1,Barren
+729,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,3,2,6,0.5,0.333333333,Barren
+730,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,4,6,6,0.666666667,1,Barren
+732,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,6,5,9,0.666666667,0.555555556,Barren
+733,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,2,3,3,0.666666667,1,Barren
+741,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,6,6,9,0.666666667,0.666666667,Barren
+747,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,0,0,2,0,0,Barren
+748,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,5,2,20,0.25,0.1,Barren
+749,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,3,3,3,1,1,Barren
+750,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,5,0,6,0.833333333,0,Barren
+770,Hill Air Force,Site,B18,Hill Air ForceSiteB18,KitFox,3,1,3,1,0.333333333,Barren
+68,Hill Air Force,Site,C18,Hill Air ForceSiteC18,KitFox,0,0,1,0,0,Barren
+2,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,3,3,1,1,Barren
+5,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,10,6,12,0.833333333,0.5,Barren
+6,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,5,4,6,0.833333333,0.666666667,Barren
+7,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,6,4,6,1,0.666666667,Barren
+8,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,0,3,1,0,Barren
+9,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,0,0,3,0,0,Barren
+10,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,2,3,6,0.333333333,0.5,Barren
+11,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,0,3,1,0,Barren
+13,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,2,3,1,0.666666667,Barren
+14,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,0,3,1,0,Barren
+17,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,2,3,1,0.666666667,Barren
+18,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,6,3,6,1,0.5,Barren
+20,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,1,3,1,0.333333333,Barren
+22,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,0,0,3,0,0,Barren
+23,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,0,3,1,0,Barren
+24,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,0,3,1,0,Barren
+26,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,0,0,1,0,0,Barren
+138,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,1,1,1,1,1,Barren
+147,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,3,3,1,1,Barren
+161,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,0,0,1,0,0,Barren
+162,Hill Air Force,Site,C20,Hill Air ForceSiteC20,KitFox,3,3,3,1,1,Barren
+19,Hill Air Force,Site,D11,Hill Air ForceSiteD11,KitFox,9,9,9,1,1,Barren
+44,Hill Air Force,Site,D11,Hill Air ForceSiteD11,KitFox,3,3,3,1,1,Barren
+45,Hill Air Force,Site,D11,Hill Air ForceSiteD11,KitFox,3,2,3,1,0.666666667,Barren
+276,Hill Air Force,Site,D4,Hill Air ForceSiteD4,KitFox,3,3,5,0.6,0.6,Barren
+223,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,0,0,1,0,0,Barren
+226,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,9,8,9,1,0.888888889,Barren
+227,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,0,0,6,0,0,Barren
+228,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,3,4,4,0.75,1,Barren
+231,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,2,0,2,1,0,Barren
+233,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,1,1,1,1,1,Barren
+235,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,9,8,9,1,0.888888889,Barren
+236,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,1,3,3,0.333333333,1,Barren
+243,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,3,2,3,1,0.666666667,Barren
+245,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,3,2,3,1,0.666666667,Barren
+246,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,6,5,6,1,0.833333333,Barren
+247,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,5,6,6,0.833333333,1,Barren
+258,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,6,5,9,0.666666667,0.555555556,Barren
+259,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,0,0,1,0,0,Barren
+271,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,3,3,3,1,1,Barren
+272,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,3,2,3,1,0.666666667,Barren
+788,Hill Air Force,Site,E4,Hill Air ForceSiteE4,KitFox,3,0,3,1,0,Barren
+264,Hill Air Force,Site,G12,Hill Air ForceSiteG12,KitFox,3,3,3,1,1,Barren
+265,Hill Air Force,Site,G12,Hill Air ForceSiteG12,KitFox,6,6,6,1,1,Barren
+218,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,3,2,3,1,0.666666667,Barren
+219,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,17,16,18,0.944444444,0.888888889,Barren
+248,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,4,5,6,0.666666667,0.833333333,Barren
+249,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,0,0,3,0,0,Barren
+250,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,9,4,9,1,0.444444444,Barren
+251,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,1,3,3,0.333333333,1,Barren
+252,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,15,9,15,1,0.6,Barren
+254,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,3,1,6,0.5,0.166666667,Barren
+260,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,9,6,9,1,0.666666667,Barren
+267,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,3,2,6,0.5,0.333333333,Barren
+268,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,0,0,3,0,0,Barren
+269,Hill Air Force,Site,H10,Hill Air ForceSiteH10,KitFox,6,6,6,1,1,Barren
+769,Hill Air Force,Site,H13,Hill Air ForceSiteH13,KitFox,3,2,3,1,0.666666667,Barren
+721,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,3,3,4,0.75,0.75,Barren
+722,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,3,3,3,1,1,Barren
+726,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,2,3,6,0.333333333,0.5,Barren
+727,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,0,1,2,0,0.5,Barren
+731,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,1,0,3,0.333333333,0,Barren
+736,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,0,0,3,0,0,Barren
+737,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,2,2,3,0.666666667,0.666666667,Barren
+738,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,0,0,1,0,0,Barren
+752,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,1,0,3,0.333333333,0,Barren
+768,Hill Air Force,Site,N17,Hill Air ForceSiteN17,KitFox,3,3,3,1,1,Barren
+762,Hill Air Force,Site,N6,Hill Air ForceSiteN6,KitFox,0,0,2,0,0,Barren
+783,Hill Air Force,Site,N6,Hill Air ForceSiteN6,KitFox,0,0,3,0,0,Barren
+229,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,9,2,9,1,0.222222222,Barren
+230,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,3,0,6,0.5,0,Barren
+232,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,0,1,1,0,1,Barren
+234,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,0,2,2,0,1,Barren
+253,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,3,2,3,1,0.666666667,Barren
+785,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,3,3,3,1,1,Barren
+786,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,3,1,3,1,0.333333333,Barren
+787,Hill Air Force,Site,O5,Hill Air ForceSiteO5,KitFox,9,8,9,1,0.888888889,Barren
+244,Hill Air Force,Site,R2,Hill Air ForceSiteR2,KitFox,1,1,3,0.333333333,0.333333333,Barren
+4,Hill Air Force,Site,S10,Hill Air ForceSiteS10,KitFox,1,0,5,0.2,0,Barren
+98,Hill Air Force,Site,S10,Hill Air ForceSiteS10,KitFox,6,6,7,0.857142857,0.857142857,Barren
+808,Blanding,Site,10,BlandingSite10,Coyote,2,0,6,0.333333333,0,Conifer
+797,Blanding,Site,74,BlandingSite74,Coyote,6,0,6,1,0,Conifer
+798,Blanding,Site,74,BlandingSite74,Coyote,4,1,6,0.666666667,0.166666667,Conifer
+790,Blanding,Site,86,BlandingSite86,Coyote,6,3,6,1,0.5,Conifer
+791,Blanding,Site,86,BlandingSite86,Coyote,3,3,3,1,1,Conifer
+807,Lund,Site,11,LundSite11,Coyote,0,0,3,0,0,Conifer
+158,Lytle,Site,35,LytleSite35,Coyote,3,0,3,1,0,Conifer
+439,Lytle,Site,24,LytleSite24,KitFox,6,6,7,0.857142857,0.857142857,Conifer
+440,Lytle,Site,24,LytleSite24,KitFox,3,3,3,1,1,Conifer
+441,Lytle,Site,24,LytleSite24,KitFox,1,0,3,0.333333333,0,Conifer
+446,Lytle,Site,24,LytleSite24,KitFox,4,1,4,1,0.25,Conifer
+468,Lytle,Site,24,LytleSite24,KitFox,3,2,3,1,0.666666667,Conifer
+475,Lytle,Site,24,LytleSite24,KitFox,4,3,6,0.666666667,0.5,Conifer
+476,Lytle,Site,24,LytleSite24,KitFox,1,0,3,0.333333333,0,Conifer
+503,Lytle,Site,24,LytleSite24,KitFox,3,2,3,1,0.666666667,Conifer
+504,Lytle,Site,24,LytleSite24,KitFox,0,0,2,0,0,Conifer
+512,Lytle,Site,24,LytleSite24,KitFox,2,1,3,0.666666667,0.333333333,Conifer
+445,Lytle,Site,35,LytleSite35,KitFox,1,1,2,0.5,0.5,Conifer
+335,BLM,Site,176,BLMSite176,Coyote,0,0,5,0,0,Exotic Herbaceous
+979,BLM,Site,64,BLMSite64,Coyote,4,6,9,0.444444444,0.666666667,Exotic Herbaceous
+399,BLM,Site,9,BLMSite9,Coyote,3,0,6,0.5,0,Exotic Herbaceous
+421,BLM,Site,9,BLMSite9,Coyote,3,0,3,1,0,Exotic Herbaceous
+427,BLM,Site,9,BLMSite9,Coyote,3,0,6,0.5,0,Exotic Herbaceous
+277,Dugway,Site,11,DugwaySite11,Coyote,8,9,12,0.666666667,0.75,Exotic Herbaceous
+278,Dugway,Site,11,DugwaySite11,Coyote,3,3,3,1,1,Exotic Herbaceous
+497,Dugway,Site,11,DugwaySite11,Coyote,3,0,3,1,0,Exotic Herbaceous
+516,Dugway,Site,11,DugwaySite11,Coyote,2,0,3,0.666666667,0,Exotic Herbaceous
+519,Dugway,Site,11,DugwaySite11,Coyote,1,0,2,0.5,0,Exotic Herbaceous
+521,Dugway,Site,11,DugwaySite11,Coyote,3,3,3,1,1,Exotic Herbaceous
+478,Dugway,Site,13,DugwaySite13,Coyote,6,3,6,1,0.5,Exotic Herbaceous
+479,Dugway,Site,13,DugwaySite13,Coyote,3,0,3,1,0,Exotic Herbaceous
+480,Dugway,Site,13,DugwaySite13,Coyote,3,0,3,1,0,Exotic Herbaceous
+520,Dugway,Site,13,DugwaySite13,Coyote,2,3,3,0.666666667,1,Exotic Herbaceous
+522,Dugway,Site,13,DugwaySite13,Coyote,0,1,1,0,1,Exotic Herbaceous
+289,Dugway,Site,19,DugwaySite19,Coyote,10,3,12,0.833333333,0.25,Exotic Herbaceous
+290,Dugway,Site,19,DugwaySite19,Coyote,0,0,1,0,0,Exotic Herbaceous
+464,Dugway,Site,29,DugwaySite29,Coyote,10,11,12,0.833333333,0.916666667,Exotic Herbaceous
+495,Dugway,Site,29,DugwaySite29,Coyote,0,0,3,0,0,Exotic Herbaceous
+15,Hill Air Force,Site,U11,Hill Air ForceSiteU11,Coyote,6,3,6,1,0.5,Exotic Herbaceous
+810,Lund,Site,102,LundSite102,Coyote,0,0,3,0,0,Exotic Herbaceous
+814,Lund,Site,102,LundSite102,Coyote,0,0,3,0,0,Exotic Herbaceous
+815,Lund,Site,102,LundSite102,Coyote,2,3,3,0.666666667,1,Exotic Herbaceous
+835,Lund,Site,42,LundSite42,Coyote,3,6,6,0.5,1,Exotic Herbaceous
+839,Lund,Site,53,LundSite53,Coyote,2,0,3,0.666666667,0,Exotic Herbaceous
+822,Lund,Site,65,LundSite65,Coyote,11,7,14,0.785714286,0.5,Exotic Herbaceous
+823,Lund,Site,65,LundSite65,Coyote,3,1,3,1,0.333333333,Exotic Herbaceous
+813,Lund,Site,84,LundSite84,Coyote,1,1,3,0.333333333,0.333333333,Exotic Herbaceous
+838,Lund,Site,86,LundSite86,Coyote,1,1,3,0.333333333,0.333333333,Exotic Herbaceous
+204,Lytle,Site,19,LytleSite19,Coyote,3,3,6,0.5,0.5,Exotic Herbaceous
+202,Lytle,Site,34,LytleSite34,Coyote,0,0,3,0,0,Exotic Herbaceous
+97,Lytle,Site,37,LytleSite37,Coyote,1,0,1,1,0,Exotic Herbaceous
+110,Lytle,Site,37,LytleSite37,Coyote,1,0,3,0.333333333,0,Exotic Herbaceous
+153,Lytle,Site,37,LytleSite37,Coyote,2,0,3,0.666666667,0,Exotic Herbaceous
+174,Lytle,Site,37,LytleSite37,Coyote,6,6,6,1,1,Exotic Herbaceous
+175,Lytle,Site,37,LytleSite37,Coyote,3,0,3,1,0,Exotic Herbaceous
+183,Lytle,Site,37,LytleSite37,Coyote,3,3,3,1,1,Exotic Herbaceous
+452,Lytle,Site,38,LytleSite38,Coyote,0,0,2,0,0,Exotic Herbaceous
+137,Lytle,Site,40,LytleSite40,Coyote,3,1,3,1,0.333333333,Exotic Herbaceous
+191,Lytle,Site,40,LytleSite40,Coyote,7,7,12,0.583333333,0.583333333,Exotic Herbaceous
+192,Lytle,Site,40,LytleSite40,Coyote,3,0,3,1,0,Exotic Herbaceous
+193,Lytle,Site,40,LytleSite40,Coyote,6,3,6,1,0.5,Exotic Herbaceous
+195,Lytle,Site,40,LytleSite40,Coyote,6,6,9,0.666666667,0.666666667,Exotic Herbaceous
+96,Lytle,Site,41,LytleSite41,Coyote,6,5,6,1,0.833333333,Exotic Herbaceous
+111,Lytle,Site,41,LytleSite41,Coyote,3,0,3,1,0,Exotic Herbaceous
+198,Lytle,Site,53,LytleSite53,Coyote,0,0,3,0,0,Exotic Herbaceous
+491,Lytle,Site,71,LytleSite71,Coyote,0,0,1,0,0,Exotic Herbaceous
+515,Dugway,Site,13,DugwaySite13,KitFox,0,0,2,0,0,Exotic Herbaceous
+103,BLM,Site,171,BLMSite171,KitFox,3,3,3,1,1,Exotic Herbaceous
+115,BLM,Site,171,BLMSite171,KitFox,0,0,3,0,0,Exotic Herbaceous
+116,BLM,Site,171,BLMSite171,KitFox,0,0,3,0,0,Exotic Herbaceous
+117,BLM,Site,171,BLMSite171,KitFox,0,0,2,0,0,Exotic Herbaceous
+132,BLM,Site,171,BLMSite171,KitFox,0,0,3,0,0,Exotic Herbaceous
+143,BLM,Site,171,BLMSite171,KitFox,4,2,6,0.666666667,0.333333333,Exotic Herbaceous
+185,BLM,Site,171,BLMSite171,KitFox,3,0,3,1,0,Exotic Herbaceous
+187,BLM,Site,171,BLMSite171,KitFox,3,3,3,1,1,Exotic Herbaceous
+199,BLM,Site,171,BLMSite171,KitFox,5,2,9,0.555555556,0.222222222,Exotic Herbaceous
+308,BLM,Site,171,BLMSite171,KitFox,0,0,1,0,0,Exotic Herbaceous
+312,BLM,Site,171,BLMSite171,KitFox,1,0,1,1,0,Exotic Herbaceous
+541,BLM,Site,171,BLMSite171,KitFox,0,0,1,0,0,Exotic Herbaceous
+545,BLM,Site,171,BLMSite171,KitFox,3,3,3,1,1,Exotic Herbaceous
+561,BLM,Site,171,BLMSite171,KitFox,9,7,9,1,0.777777778,Exotic Herbaceous
+864,BLM,Site,171,BLMSite171,KitFox,5,5,6,0.833333333,0.833333333,Exotic Herbaceous
+865,BLM,Site,171,BLMSite171,KitFox,2,3,3,0.666666667,1,Exotic Herbaceous
+866,BLM,Site,171,BLMSite171,KitFox,10,9,12,0.833333333,0.75,Exotic Herbaceous
+894,BLM,Site,171,BLMSite171,KitFox,6,6,6,1,1,Exotic Herbaceous
+900,BLM,Site,171,BLMSite171,KitFox,2,0,2,1,0,Exotic Herbaceous
+299,BLM,Site,176,BLMSite176,KitFox,3,4,9,0.333333333,0.444444444,Exotic Herbaceous
+300,BLM,Site,176,BLMSite176,KitFox,3,3,4,0.75,0.75,Exotic Herbaceous
+301,BLM,Site,176,BLMSite176,KitFox,3,3,3,1,1,Exotic Herbaceous
+350,BLM,Site,176,BLMSite176,KitFox,3,3,3,1,1,Exotic Herbaceous
+365,BLM,Site,176,BLMSite176,KitFox,2,2,3,0.666666667,0.666666667,Exotic Herbaceous
+370,BLM,Site,176,BLMSite176,KitFox,3,0,3,1,0,Exotic Herbaceous
+842,BLM,Site,176,BLMSite176,KitFox,3,3,3,1,1,Exotic Herbaceous
+843,BLM,Site,176,BLMSite176,KitFox,2,1,2,1,0.5,Exotic Herbaceous
+882,BLM,Site,176,BLMSite176,KitFox,1,3,3,0.333333333,1,Exotic Herbaceous
+883,BLM,Site,176,BLMSite176,KitFox,2,2,3,0.666666667,0.666666667,Exotic Herbaceous
+892,BLM,Site,176,BLMSite176,KitFox,4,3,4,1,0.75,Exotic Herbaceous
+913,BLM,Site,176,BLMSite176,KitFox,11,9,11,1,0.818181818,Exotic Herbaceous
+915,BLM,Site,176,BLMSite176,KitFox,3,2,3,1,0.666666667,Exotic Herbaceous
+923,BLM,Site,176,BLMSite176,KitFox,3,3,4,0.75,0.75,Exotic Herbaceous
+948,BLM,Site,64,BLMSite64,KitFox,0,0,3,0,0,Exotic Herbaceous
+954,BLM,Site,64,BLMSite64,KitFox,1,2,2,0.5,1,Exotic Herbaceous
+966,BLM,Site,64,BLMSite64,KitFox,0,0,3,0,0,Exotic Herbaceous
+971,BLM,Site,64,BLMSite64,KitFox,6,6,6,1,1,Exotic Herbaceous
+972,BLM,Site,64,BLMSite64,KitFox,3,3,3,1,1,Exotic Herbaceous
+975,BLM,Site,64,BLMSite64,KitFox,4,4,6,0.666666667,0.666666667,Exotic Herbaceous
+980,BLM,Site,64,BLMSite64,KitFox,3,3,3,1,1,Exotic Herbaceous
+982,BLM,Site,64,BLMSite64,KitFox,6,5,6,1,0.833333333,Exotic Herbaceous
+986,BLM,Site,64,BLMSite64,KitFox,0,0,1,0,0,Exotic Herbaceous
+990,BLM,Site,64,BLMSite64,KitFox,2,1,2,1,0.5,Exotic Herbaceous
+997,BLM,Site,64,BLMSite64,KitFox,2,1,3,0.666666667,0.333333333,Exotic Herbaceous
+1000,BLM,Site,64,BLMSite64,KitFox,3,2,3,1,0.666666667,Exotic Herbaceous
+1001,BLM,Site,64,BLMSite64,KitFox,0,0,3,0,0,Exotic Herbaceous
+423,BLM,Site,9,BLMSite9,KitFox,3,3,4,0.75,0.75,Exotic Herbaceous
+429,BLM,Site,9,BLMSite9,KitFox,3,5,5,0.6,1,Exotic Herbaceous
+435,BLM,Site,9,BLMSite9,KitFox,6,6,6,1,1,Exotic Herbaceous
+486,Dugway,Site,13,DugwaySite13,KitFox,6,3,6,1,0.5,Exotic Herbaceous
+506,Dugway,Site,13,DugwaySite13,KitFox,5,5,6,0.833333333,0.833333333,Exotic Herbaceous
+510,Dugway,Site,13,DugwaySite13,KitFox,3,1,3,1,0.333333333,Exotic Herbaceous
+511,Dugway,Site,13,DugwaySite13,KitFox,0,1,1,0,1,Exotic Herbaceous
+448,Dugway,Site,25,DugwaySite25,KitFox,6,5,6,1,0.833333333,Exotic Herbaceous
+455,Dugway,Site,25,DugwaySite25,KitFox,5,4,5,1,0.8,Exotic Herbaceous
+775,Hill Air Force,Site,O16,Hill Air ForceSiteO16,KitFox,7,6,9,0.777777778,0.666666667,Exotic Herbaceous
+16,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,11,10,11,1,0.909090909,Exotic Herbaceous
+25,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,2,2,6,0.333333333,0.333333333,Exotic Herbaceous
+114,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,3,3,9,0.333333333,0.333333333,Exotic Herbaceous
+118,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,3,3,5,0.6,0.6,Exotic Herbaceous
+216,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,8,10,10,0.8,1,Exotic Herbaceous
+220,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,5,4,12,0.416666667,0.333333333,Exotic Herbaceous
+221,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,3,3,3,1,1,Exotic Herbaceous
+238,Hill Air Force,Site,U11,Hill Air ForceSiteU11,KitFox,3,3,3,1,1,Exotic Herbaceous
+801,Lund,Site,42,LundSite42,KitFox,10,11,12,0.833333333,0.916666667,Exotic Herbaceous
+805,Lund,Site,42,LundSite42,KitFox,1,3,3,0.333333333,1,Exotic Herbaceous
+812,Lund,Site,42,LundSite42,KitFox,3,3,3,1,1,Exotic Herbaceous
+811,Lund,Site,86,LundSite86,KitFox,6,6,6,1,1,Exotic Herbaceous
+832,Lund,Site,95,LundSite95,KitFox,9,6,9,1,0.666666667,Exotic Herbaceous
+148,Lytle,Site,29,LytleSite29,KitFox,0,0,3,0,0,Exotic Herbaceous
+113,Lytle,Site,40,LytleSite40,KitFox,3,0,3,1,0,Exotic Herbaceous
+87,Lytle,Site,41,LytleSite41,KitFox,6,2,6,1,0.333333333,Exotic Herbaceous
+459,Lytle,Site,48,LytleSite48,KitFox,3,3,3,1,1,Exotic Herbaceous
+465,Lytle,Site,81,LytleSite81,KitFox,1,0,5,0.2,0,Exotic Herbaceous
+471,Lytle,Site,81,LytleSite81,KitFox,6,0,9,0.666666667,0,Exotic Herbaceous
+472,Lytle,Site,81,LytleSite81,KitFox,3,1,3,1,0.333333333,Exotic Herbaceous
+496,Lytle,Site,81,LytleSite81,KitFox,2,1,3,0.666666667,0.333333333,Exotic Herbaceous
+525,West Water,Site,73,West WaterSite73,KitFox,6,3,6,1,0.5,Exotic Herbaceous
+128,BLM,Site,104,BLMSite104,Coyote,6,6,9,0.666666667,0.666666667,Shrub
+329,BLM,Site,105,BLMSite105,Coyote,0,0,3,0,0,Shrub
+566,BLM,Site,108,BLMSite108,Coyote,3,0,3,1,0,Shrub
+63,BLM,Site,112,BLMSite112,Coyote,3,0,3,1,0,Shrub
+64,BLM,Site,112,BLMSite112,Coyote,3,2,3,1,0.666666667,Shrub
+65,BLM,Site,112,BLMSite112,Coyote,0,0,3,0,0,Shrub
+66,BLM,Site,112,BLMSite112,Coyote,0,0,2,0,0,Shrub
+168,BLM,Site,112,BLMSite112,Coyote,3,3,3,1,1,Shrub
+650,BLM,Site,114,BLMSite114,Coyote,0,0,1,0,0,Shrub
+961,BLM,Site,115,BLMSite115,Coyote,4,3,6,0.666666667,0.5,Shrub
+562,BLM,Site,125,BLMSite125,Coyote,0,0,1,0,0,Shrub
+364,BLM,Site,127,BLMSite127,Coyote,0,0,3,0,0,Shrub
+84,BLM,Site,146,BLMSite146,Coyote,3,0,3,1,0,Shrub
+85,BLM,Site,146,BLMSite146,Coyote,3,3,3,1,1,Shrub
+556,BLM,Site,155,BLMSite155,Coyote,0,0,2,0,0,Shrub
+172,BLM,Site,169,BLMSite169,Coyote,3,0,3,1,0,Shrub
+408,BLM,Site,23,BLMSite23,Coyote,1,0,3,0.333333333,0,Shrub
+415,BLM,Site,23,BLMSite23,Coyote,0,0,1,0,0,Shrub
+641,BLM,Site,23,BLMSite23,Coyote,3,0,3,1,0,Shrub
+392,BLM,Site,24,BLMSite24,Coyote,0,0,3,0,0,Shrub
+428,BLM,Site,24,BLMSite24,Coyote,1,0,3,0.333333333,0,Shrub
+653,BLM,Site,27,BLMSite27,Coyote,0,0,5,0,0,Shrub
+987,BLM,Site,33,BLMSite33,Coyote,1,0,3,0.333333333,0,Shrub
+51,BLM,Site,37,BLMSite37,Coyote,12,6,12,1,0.5,Shrub
+53,BLM,Site,37,BLMSite37,Coyote,0,0,2,0,0,Shrub
+633,BLM,Site,37,BLMSite37,Coyote,0,0,3,0,0,Shrub
+635,BLM,Site,37,BLMSite37,Coyote,1,0,2,0.5,0,Shrub
+661,BLM,Site,37,BLMSite37,Coyote,0,0,3,0,0,Shrub
+662,BLM,Site,37,BLMSite37,Coyote,3,0,3,1,0,Shrub
+663,BLM,Site,37,BLMSite37,Coyote,6,3,6,1,0.5,Shrub
+400,BLM,Site,46,BLMSite46,Coyote,9,0,9,1,0,Shrub
+621,BLM,Site,50,BLMSite50,Coyote,0,1,1,0,1,Shrub
+677,BLM,Site,50,BLMSite50,Coyote,1,0,1,1,0,Shrub
+413,BLM,Site,51,BLMSite51,Coyote,2,0,3,0.666666667,0,Shrub
+660,BLM,Site,52,BLMSite52,Coyote,0,0,2,0,0,Shrub
+378,BLM,Site,54,BLMSite54,Coyote,0,1,1,0,1,Shrub
+379,BLM,Site,54,BLMSite54,Coyote,1,0,1,1,0,Shrub
+380,BLM,Site,54,BLMSite54,Coyote,2,0,3,0.666666667,0,Shrub
+381,BLM,Site,54,BLMSite54,Coyote,7,6,12,0.583333333,0.5,Shrub
+124,BLM,Site,58,BLMSite58,Coyote,3,1,5,0.6,0.2,Shrub
+34,BLM,Site,6,BLMSite6,Coyote,4,0,9,0.444444444,0,Shrub
+40,BLM,Site,6,BLMSite6,Coyote,3,0,3,1,0,Shrub
+48,BLM,Site,6,BLMSite6,Coyote,0,0,3,0,0,Shrub
+72,BLM,Site,6,BLMSite6,Coyote,0,1,1,0,1,Shrub
+121,BLM,Site,6,BLMSite6,Coyote,1,0,1,1,0,Shrub
+136,BLM,Site,6,BLMSite6,Coyote,0,0,3,0,0,Shrub
+150,BLM,Site,6,BLMSite6,Coyote,3,3,3,1,1,Shrub
+151,BLM,Site,6,BLMSite6,Coyote,0,0,3,0,0,Shrub
+152,BLM,Site,6,BLMSite6,Coyote,0,0,1,0,0,Shrub
+384,BLM,Site,65,BLMSite65,Coyote,8,11,12,0.666666667,0.916666667,Shrub
+385,BLM,Site,65,BLMSite65,Coyote,5,6,8,0.625,0.75,Shrub
+387,BLM,Site,65,BLMSite65,Coyote,1,1,1,1,1,Shrub
+391,BLM,Site,66,BLMSite66,Coyote,6,4,6,1,0.666666667,Shrub
+395,BLM,Site,66,BLMSite66,Coyote,1,0,1,1,0,Shrub
+398,BLM,Site,66,BLMSite66,Coyote,2,0,2,1,0,Shrub
+416,BLM,Site,8,BLMSite8,Coyote,2,0,3,0.666666667,0,Shrub
+436,BLM,Site,8,BLMSite8,Coyote,1,0,3,0.333333333,0,Shrub
+403,BLM,Site,81,BLMSite81,Coyote,6,6,6,1,1,Shrub
+644,BLM,Site,82,BLMSite82,Coyote,0,0,3,0,0,Shrub
+317,BLM,Site,88,BLMSite88,Coyote,1,1,1,1,1,Shrub
+580,BLM,Site,88,BLMSite88,Coyote,11,1,12,0.916666667,0.083333333,Shrub
+868,BLM,Site,88,BLMSite88,Coyote,2,0,3,0.666666667,0,Shrub
+869,BLM,Site,88,BLMSite88,Coyote,3,0,6,0.5,0,Shrub
+870,BLM,Site,88,BLMSite88,Coyote,0,0,3,0,0,Shrub
+877,BLM,Site,88,BLMSite88,Coyote,5,0,6,0.833333333,0,Shrub
+878,BLM,Site,88,BLMSite88,Coyote,9,4,9,1,0.444444444,Shrub
+910,BLM,Site,88,BLMSite88,Coyote,3,0,3,1,0,Shrub
+911,BLM,Site,88,BLMSite88,Coyote,6,3,8,0.75,0.375,Shrub
+679,BLM,Site,93,BLMSite93,Coyote,0,3,3,0,1,Shrub
+296,Dugway,Site,1,DugwaySite1,Coyote,0,0,1,0,0,Shrub
+279,Dugway,Site,10,DugwaySite10,Coyote,3,0,3,1,0,Shrub
+460,Dugway,Site,14,DugwaySite14,Coyote,1,1,3,0.333333333,0.333333333,Shrub
+461,Dugway,Site,14,DugwaySite14,Coyote,3,2,3,1,0.666666667,Shrub
+462,Dugway,Site,14,DugwaySite14,Coyote,3,0,3,1,0,Shrub
+463,Dugway,Site,14,DugwaySite14,Coyote,3,0,3,1,0,Shrub
+513,Dugway,Site,15W,DugwaySite15W,Coyote,1,0,3,0.333333333,0,Shrub
+517,Dugway,Site,15W,DugwaySite15W,Coyote,3,2,6,0.5,0.333333333,Shrub
+282,Dugway,Site,17,DugwaySite17,Coyote,3,0,3,1,0,Shrub
+499,Dugway,Site,17,DugwaySite17,Coyote,3,0,3,1,0,Shrub
+500,Dugway,Site,17,DugwaySite17,Coyote,7,0,9,0.777777778,0,Shrub
+518,Dugway,Site,2,DugwaySite2,Coyote,0,0,2,0,0,Shrub
+469,Dugway,Site,21,DugwaySite21,Coyote,0,0,1,0,0,Shrub
+288,Dugway,Site,22,DugwaySite22,Coyote,1,0,3,0.333333333,0,Shrub
+294,Dugway,Site,3,DugwaySite3,Coyote,3,0,3,1,0,Shrub
+295,Dugway,Site,3,DugwaySite3,Coyote,2,1,3,0.666666667,0.333333333,Shrub
+514,Dugway,Site,3,DugwaySite3,Coyote,3,3,3,1,1,Shrub
+492,Dugway,Site,34,DugwaySite34,Coyote,1,0,1,1,0,Shrub
+298,Dugway,Site,36,DugwaySite36,Coyote,6,5,7,0.857142857,0.714285714,Shrub
+1,Dugway,Site,4,DugwaySite4,Coyote,1,0,3,0.333333333,0,Shrub
+283,Dugway,Site,5,DugwaySite5,Coyote,0,0,1,0,0,Shrub
+501,Dugway,Site,50,DugwaySite50,Coyote,0,0,2,0,0,Shrub
+284,Dugway,Site,7,DugwaySite7,Coyote,1,0,1,1,0,Shrub
+494,Dugway,Site,8,DugwaySite8,Coyote,0,0,3,0,0,Shrub
+505,Dugway,Site,8,DugwaySite8,Coyote,2,0,2,1,0,Shrub
+672,Hanksville,Site,40,HanksvilleSite40,Coyote,7,2,12,0.583333333,0.166666667,Shrub
+673,Hanksville,Site,40,HanksvilleSite40,Coyote,2,0,3,0.666666667,0,Shrub
+666,Hanksville,Site,41,HanksvilleSite41,Coyote,3,0,3,1,0,Shrub
+664,Hanksville,Site,42,HanksvilleSite42,Coyote,0,0,1,0,0,Shrub
+682,Hanksville,Site,42,HanksvilleSite42,Coyote,4,0,6,0.666666667,0,Shrub
+680,Hanksville,Site,57,HanksvilleSite57,Coyote,0,0,2,0,0,Shrub
+239,Hill Air Force,Site,D3,Hill Air ForceSiteD3,Coyote,6,3,6,1,0.5,Shrub
+240,Hill Air Force,Site,D3,Hill Air ForceSiteD3,Coyote,0,0,1,0,0,Shrub
+772,Hill Air Force,Site,E3,Hill Air ForceSiteE3,Coyote,3,3,4,0.75,0.75,Shrub
+773,Hill Air Force,Site,E3,Hill Air ForceSiteE3,Coyote,4,0,6,0.666666667,0,Shrub
+771,Hill Air Force,Site,S2,Hill Air ForceSiteS2,Coyote,1,1,2,0.5,0.5,Shrub
+776,Hill Air Force,Site,S4,Hill Air ForceSiteS4,Coyote,6,6,6,1,1,Shrub
+826,Lund,Site,14,LundSite14,Coyote,0,0,2,0,0,Shrub
+806,Lund,Site,17,LundSite17,Coyote,2,0,3,0.666666667,0,Shrub
+817,Lund,Site,58,LundSite58,Coyote,4,3,6,0.666666667,0.5,Shrub
+827,Lund,Site,58,LundSite58,Coyote,2,1,6,0.333333333,0.166666667,Shrub
+800,Lund,Site,70,LundSite70,Coyote,9,3,9,1,0.333333333,Shrub
+818,Lund,Site,70,LundSite70,Coyote,3,3,3,1,1,Shrub
+819,Lund,Site,70,LundSite70,Coyote,15,6,18,0.833333333,0.333333333,Shrub
+834,Lund,Site,72,LundSite72,Coyote,2,0,3,0.666666667,0,Shrub
+837,Lund,Site,72,LundSite72,Coyote,3,1,3,1,0.333333333,Shrub
+821,Lund,Site,74,LundSite74,Coyote,6,6,6,1,1,Shrub
+802,Lund,Site,75,LundSite75,Coyote,1,1,1,1,1,Shrub
+803,Lund,Site,75,LundSite75,Coyote,3,3,3,1,1,Shrub
+809,Lund,Site,75,LundSite75,Coyote,6,8,8,0.75,1,Shrub
+442,Lytle,Site,67,LytleSite67,Coyote,1,0,1,1,0,Shrub
+717,Thomas Range,Site,25,Thomas RangeSite25,Coyote,5,3,9,0.555555556,0.333333333,Shrub
+718,Thomas Range,Site,25,Thomas RangeSite25,Coyote,5,0,6,0.833333333,0,Shrub
+688,Thomas Range,Site,27,Thomas RangeSite27,Coyote,0,0,3,0,0,Shrub
+712,Thomas Range,Site,29,Thomas RangeSite29,Coyote,3,1,3,1,0.333333333,Shrub
+701,Thomas Range,Site,4,Thomas RangeSite4,Coyote,1,1,1,1,1,Shrub
+743,Thomas Range,Site,40,Thomas RangeSite40,Coyote,3,0,3,1,0,Shrub
+396,Thomas Range,Site,62,Thomas RangeSite62,Coyote,1,1,1,1,1,Shrub
+780,Thomas Range,Site,62,Thomas RangeSite62,Coyote,19,13,22,0.863636364,0.590909091,Shrub
+692,Thomas Range,Site,65,Thomas RangeSite65,Coyote,1,2,3,0.333333333,0.666666667,Shrub
+693,Thomas Range,Site,65,Thomas RangeSite65,Coyote,0,1,3,0,0.333333333,Shrub
+760,Thomas Range,Site,72,Thomas RangeSite72,Coyote,2,1,3,0.666666667,0.333333333,Shrub
+761,Thomas Range,Site,72,Thomas RangeSite72,Coyote,7,4,9,0.777777778,0.444444444,Shrub
+715,Thomas Range,Site,81,Thomas RangeSite81,Coyote,0,0,1,0,0,Shrub
+530,West Water,Site,100,West WaterSite100,Coyote,0,0,3,0,0,Shrub
+582,West Water,Site,100,West WaterSite100,Coyote,5,0,6,0.833333333,0,Shrub
+603,West Water,Site,101,West WaterSite101,Coyote,1,2,3,0.333333333,0.666666667,Shrub
+560,West Water,Site,25,West WaterSite25,Coyote,1,0,3,0.333333333,0,Shrub
+554,West Water,Site,27,West WaterSite27,Coyote,3,0,3,1,0,Shrub
+523,West Water,Site,6,West WaterSite6,Coyote,0,0,3,0,0,Shrub
+548,West Water,Site,74,West WaterSite74,Coyote,3,0,3,1,0,Shrub
+537,West Water,Site,77,West WaterSite77,Coyote,1,0,2,0.5,0,Shrub
+550,West Water,Site,77,West WaterSite77,Coyote,6,6,6,1,1,Shrub
+862,BLM,Site,110,BLMSite110,KitFox,2,0,2,1,0,Shrub
+884,BLM,Site,110,BLMSite110,KitFox,7,7,7,1,1,Shrub
+885,BLM,Site,110,BLMSite110,KitFox,3,0,3,1,0,Shrub
+887,BLM,Site,110,BLMSite110,KitFox,4,3,6,0.666666667,0.5,Shrub
+888,BLM,Site,110,BLMSite110,KitFox,12,12,12,1,1,Shrub
+889,BLM,Site,110,BLMSite110,KitFox,0,0,1,0,0,Shrub
+896,BLM,Site,110,BLMSite110,KitFox,3,0,3,1,0,Shrub
+898,BLM,Site,110,BLMSite110,KitFox,6,6,6,1,1,Shrub
+418,BLM,Site,65,BLMSite65,KitFox,1,1,1,1,1,Shrub
+319,BLM,Site,88,BLMSite88,KitFox,1,1,1,1,1,Shrub
+321,BLM,Site,88,BLMSite88,KitFox,1,1,1,1,1,Shrub
+323,BLM,Site,88,BLMSite88,KitFox,0,0,1,0,0,Shrub
+793,Blanding,Site,61,BlandingSite61,KitFox,1,0,3,0.333333333,0,Shrub
+956,BLM,Site,10,BLMSite10,KitFox,0,3,3,0,1,Shrub
+76,BLM,Site,100,BLMSite100,KitFox,3,3,6,0.5,0.5,Shrub
+163,BLM,Site,100,BLMSite100,KitFox,1,0,3,0.333333333,0,Shrub
+123,BLM,Site,104,BLMSite104,KitFox,3,2,3,1,0.666666667,Shrub
+184,BLM,Site,104,BLMSite104,KitFox,2,1,2,1,0.5,Shrub
+528,BLM,Site,104,BLMSite104,KitFox,9,9,9,1,1,Shrub
+542,BLM,Site,104,BLMSite104,KitFox,3,3,3,1,1,Shrub
+543,BLM,Site,104,BLMSite104,KitFox,1,1,1,1,1,Shrub
+553,BLM,Site,104,BLMSite104,KitFox,0,1,3,0,0.333333333,Shrub
+557,BLM,Site,104,BLMSite104,KitFox,9,8,13,0.692307692,0.615384615,Shrub
+853,BLM,Site,104,BLMSite104,KitFox,1,1,1,1,1,Shrub
+857,BLM,Site,104,BLMSite104,KitFox,1,0,4,0.25,0,Shrub
+875,BLM,Site,104,BLMSite104,KitFox,6,5,8,0.75,0.625,Shrub
+876,BLM,Site,104,BLMSite104,KitFox,0,0,2,0,0,Shrub
+893,BLM,Site,104,BLMSite104,KitFox,0,1,1,0,1,Shrub
+914,BLM,Site,104,BLMSite104,KitFox,1,1,1,1,1,Shrub
+359,BLM,Site,105,BLMSite105,KitFox,1,1,1,1,1,Shrub
+855,BLM,Site,105,BLMSite105,KitFox,3,3,3,1,1,Shrub
+856,BLM,Site,105,BLMSite105,KitFox,3,3,3,1,1,Shrub
+32,BLM,Site,108,BLMSite108,KitFox,3,3,3,1,1,Shrub
+33,BLM,Site,108,BLMSite108,KitFox,1,1,1,1,1,Shrub
+61,BLM,Site,108,BLMSite108,KitFox,3,0,6,0.5,0,Shrub
+62,BLM,Site,108,BLMSite108,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+91,BLM,Site,108,BLMSite108,KitFox,1,5,6,0.166666667,0.833333333,Shrub
+92,BLM,Site,108,BLMSite108,KitFox,9,6,12,0.75,0.5,Shrub
+95,BLM,Site,108,BLMSite108,KitFox,0,1,1,0,1,Shrub
+105,BLM,Site,108,BLMSite108,KitFox,0,4,4,0,1,Shrub
+141,BLM,Site,108,BLMSite108,KitFox,6,6,6,1,1,Shrub
+200,BLM,Site,108,BLMSite108,KitFox,0,3,3,0,1,Shrub
+205,BLM,Site,108,BLMSite108,KitFox,8,5,9,0.888888889,0.555555556,Shrub
+341,BLM,Site,108,BLMSite108,KitFox,1,1,1,1,1,Shrub
+348,BLM,Site,108,BLMSite108,KitFox,3,3,3,1,1,Shrub
+354,BLM,Site,108,BLMSite108,KitFox,4,3,6,0.666666667,0.5,Shrub
+355,BLM,Site,108,BLMSite108,KitFox,2,2,3,0.666666667,0.666666667,Shrub
+366,BLM,Site,108,BLMSite108,KitFox,3,5,6,0.5,0.833333333,Shrub
+367,BLM,Site,108,BLMSite108,KitFox,0,0,2,0,0,Shrub
+368,BLM,Site,108,BLMSite108,KitFox,1,0,1,1,0,Shrub
+369,BLM,Site,108,BLMSite108,KitFox,3,0,3,1,0,Shrub
+371,BLM,Site,108,BLMSite108,KitFox,6,3,6,1,0.5,Shrub
+315,BLM,Site,109,BLMSite109,KitFox,3,2,3,1,0.666666667,Shrub
+361,BLM,Site,109,BLMSite109,KitFox,1,0,3,0.333333333,0,Shrub
+362,BLM,Site,109,BLMSite109,KitFox,0,0,1,0,0,Shrub
+615,BLM,Site,109,BLMSite109,KitFox,3,1,3,1,0.333333333,Shrub
+628,BLM,Site,109,BLMSite109,KitFox,3,3,3,1,1,Shrub
+638,BLM,Site,109,BLMSite109,KitFox,2,0,3,0.666666667,0,Shrub
+643,BLM,Site,109,BLMSite109,KitFox,3,3,6,0.5,0.5,Shrub
+647,BLM,Site,109,BLMSite109,KitFox,0,0,3,0,0,Shrub
+648,BLM,Site,109,BLMSite109,KitFox,3,2,5,0.6,0.4,Shrub
+649,BLM,Site,109,BLMSite109,KitFox,3,6,6,0.5,1,Shrub
+669,BLM,Site,109,BLMSite109,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+678,BLM,Site,109,BLMSite109,KitFox,1,0,3,0.333333333,0,Shrub
+407,BLM,Site,111,BLMSite111,KitFox,8,7,9,0.888888889,0.777777778,Shrub
+410,BLM,Site,111,BLMSite111,KitFox,3,0,5,0.6,0,Shrub
+640,BLM,Site,113,BLMSite113,KitFox,0,0,1,0,0,Shrub
+995,BLM,Site,115,BLMSite115,KitFox,3,0,3,1,0,Shrub
+998,BLM,Site,115,BLMSite115,KitFox,11,2,13,0.846153846,0.153846154,Shrub
+1002,BLM,Site,115,BLMSite115,KitFox,2,0,2,1,0,Shrub
+167,BLM,Site,120,BLMSite120,KitFox,3,0,3,1,0,Shrub
+328,BLM,Site,120,BLMSite120,KitFox,3,0,3,1,0,Shrub
+346,BLM,Site,120,BLMSite120,KitFox,1,0,3,0.333333333,0,Shrub
+347,BLM,Site,120,BLMSite120,KitFox,0,3,3,0,1,Shrub
+858,BLM,Site,122,BLMSite122,KitFox,3,3,3,1,1,Shrub
+861,BLM,Site,122,BLMSite122,KitFox,3,3,3,1,1,Shrub
+902,BLM,Site,122,BLMSite122,KitFox,3,3,6,0.5,0.5,Shrub
+903,BLM,Site,122,BLMSite122,KitFox,6,6,8,0.75,0.75,Shrub
+340,BLM,Site,123,BLMSite123,KitFox,4,4,4,1,1,Shrub
+526,BLM,Site,124,BLMSite124,KitFox,0,1,2,0,0.5,Shrub
+849,BLM,Site,124,BLMSite124,KitFox,2,0,3,0.666666667,0,Shrub
+859,BLM,Site,124,BLMSite124,KitFox,3,3,3,1,1,Shrub
+52,BLM,Site,125,BLMSite125,KitFox,8,4,9,0.888888889,0.444444444,Shrub
+59,BLM,Site,125,BLMSite125,KitFox,1,0,3,0.333333333,0,Shrub
+60,BLM,Site,125,BLMSite125,KitFox,2,0,3,0.666666667,0,Shrub
+83,BLM,Site,125,BLMSite125,KitFox,5,6,7,0.714285714,0.857142857,Shrub
+127,BLM,Site,125,BLMSite125,KitFox,3,0,3,1,0,Shrub
+149,BLM,Site,125,BLMSite125,KitFox,3,0,3,1,0,Shrub
+164,BLM,Site,125,BLMSite125,KitFox,3,0,3,1,0,Shrub
+165,BLM,Site,125,BLMSite125,KitFox,3,3,3,1,1,Shrub
+186,BLM,Site,125,BLMSite125,KitFox,4,1,5,0.8,0.2,Shrub
+208,BLM,Site,125,BLMSite125,KitFox,3,1,3,1,0.333333333,Shrub
+605,BLM,Site,125,BLMSite125,KitFox,1,0,3,0.333333333,0,Shrub
+848,BLM,Site,125,BLMSite125,KitFox,3,3,3,1,1,Shrub
+342,BLM,Site,127,BLMSite127,KitFox,2,3,3,0.666666667,1,Shrub
+349,BLM,Site,127,BLMSite127,KitFox,3,3,3,1,1,Shrub
+860,BLM,Site,127,BLMSite127,KitFox,3,0,3,1,0,Shrub
+886,BLM,Site,127,BLMSite127,KitFox,3,3,3,1,1,Shrub
+904,BLM,Site,127,BLMSite127,KitFox,3,1,3,1,0.333333333,Shrub
+905,BLM,Site,127,BLMSite127,KitFox,2,3,3,0.666666667,1,Shrub
+906,BLM,Site,127,BLMSite127,KitFox,6,2,6,1,0.333333333,Shrub
+907,BLM,Site,127,BLMSite127,KitFox,2,0,2,1,0,Shrub
+921,BLM,Site,127,BLMSite127,KitFox,2,0,3,0.666666667,0,Shrub
+383,BLM,Site,129,BLMSite129,KitFox,3,1,3,1,0.333333333,Shrub
+393,BLM,Site,129,BLMSite129,KitFox,0,0,1,0,0,Shrub
+928,BLM,Site,129,BLMSite129,KitFox,0,0,1,0,0,Shrub
+999,BLM,Site,131,BLMSite131,KitFox,8,9,9,0.888888889,1,Shrub
+382,BLM,Site,132,BLMSite132,KitFox,3,3,3,1,1,Shrub
+996,BLM,Site,132,BLMSite132,KitFox,5,3,6,0.833333333,0.5,Shrub
+1007,BLM,Site,132,BLMSite132,KitFox,0,0,2,0,0,Shrub
+86,BLM,Site,136,BLMSite136,KitFox,3,3,3,1,1,Shrub
+146,BLM,Site,136,BLMSite136,KitFox,3,3,3,1,1,Shrub
+173,BLM,Site,136,BLMSite136,KitFox,3,3,3,1,1,Shrub
+306,BLM,Site,138,BLMSite138,KitFox,0,0,3,0,0,Shrub
+337,BLM,Site,138,BLMSite138,KitFox,4,1,5,0.8,0.2,Shrub
+599,BLM,Site,138,BLMSite138,KitFox,0,0,3,0,0,Shrub
+845,BLM,Site,138,BLMSite138,KitFox,3,3,3,1,1,Shrub
+559,BLM,Site,139,BLMSite139,KitFox,6,5,6,1,0.833333333,Shrub
+592,BLM,Site,139,BLMSite139,KitFox,1,3,3,0.333333333,1,Shrub
+598,BLM,Site,139,BLMSite139,KitFox,3,3,3,1,1,Shrub
+891,BLM,Site,139,BLMSite139,KitFox,2,3,3,0.666666667,1,Shrub
+567,BLM,Site,140,BLMSite140,KitFox,3,1,3,1,0.333333333,Shrub
+527,BLM,Site,141,BLMSite141,KitFox,1,0,3,0.333333333,0,Shrub
+546,BLM,Site,141,BLMSite141,KitFox,3,0,3,1,0,Shrub
+547,BLM,Site,141,BLMSite141,KitFox,1,2,2,0.5,1,Shrub
+890,BLM,Site,141,BLMSite141,KitFox,2,2,2,1,1,Shrub
+917,BLM,Site,141,BLMSite141,KitFox,3,3,3,1,1,Shrub
+918,BLM,Site,141,BLMSite141,KitFox,3,2,3,1,0.666666667,Shrub
+919,BLM,Site,141,BLMSite141,KitFox,3,1,3,1,0.333333333,Shrub
+920,BLM,Site,141,BLMSite141,KitFox,3,2,3,1,0.666666667,Shrub
+106,BLM,Site,146,BLMSite146,KitFox,5,3,9,0.555555556,0.333333333,Shrub
+109,BLM,Site,146,BLMSite146,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+390,BLM,Site,147B,BLMSite147B,KitFox,6,6,6,1,1,Shrub
+394,BLM,Site,147B,BLMSite147B,KitFox,1,1,3,0.333333333,0.333333333,Shrub
+406,BLM,Site,147B,BLMSite147B,KitFox,1,2,2,0.5,1,Shrub
+619,BLM,Site,148,BLMSite148,KitFox,0,0,1,0,0,Shrub
+937,BLM,Site,148,BLMSite148,KitFox,2,0,2,1,0,Shrub
+960,BLM,Site,149,BLMSite149,KitFox,3,3,3,1,1,Shrub
+414,BLM,Site,15,BLMSite15,KitFox,1,1,1,1,1,Shrub
+433,BLM,Site,15,BLMSite15,KitFox,0,0,2,0,0,Shrub
+544,BLM,Site,155,BLMSite155,KitFox,7,9,11,0.636363636,0.818181818,Shrub
+35,BLM,Site,157,BLMSite157,KitFox,4,3,9,0.444444444,0.333333333,Shrub
+90,BLM,Site,157,BLMSite157,KitFox,5,3,5,1,0.6,Shrub
+108,BLM,Site,157,BLMSite157,KitFox,3,4,8,0.375,0.5,Shrub
+112,BLM,Site,157,BLMSite157,KitFox,1,2,2,0.5,1,Shrub
+134,BLM,Site,157,BLMSite157,KitFox,1,1,2,0.5,0.5,Shrub
+155,BLM,Site,157,BLMSite157,KitFox,3,2,6,0.5,0.333333333,Shrub
+196,BLM,Site,157,BLMSite157,KitFox,0,0,1,0,0,Shrub
+206,BLM,Site,157,BLMSite157,KitFox,4,3,6,0.666666667,0.5,Shrub
+536,BLM,Site,157,BLMSite157,KitFox,1,1,1,1,1,Shrub
+540,BLM,Site,157,BLMSite157,KitFox,1,1,1,1,1,Shrub
+572,BLM,Site,157,BLMSite157,KitFox,2,0,3,0.666666667,0,Shrub
+576,BLM,Site,157,BLMSite157,KitFox,2,1,2,1,0.5,Shrub
+577,BLM,Site,157,BLMSite157,KitFox,1,3,3,0.333333333,1,Shrub
+609,BLM,Site,157,BLMSite157,KitFox,3,2,3,1,0.666666667,Shrub
+610,BLM,Site,157,BLMSite157,KitFox,0,2,2,0,1,Shrub
+302,BLM,Site,159,BLMSite159,KitFox,6,4,7,0.857142857,0.571428571,Shrub
+311,BLM,Site,159,BLMSite159,KitFox,0,0,1,0,0,Shrub
+596,BLM,Site,159,BLMSite159,KitFox,1,1,2,0.5,0.5,Shrub
+629,BLM,Site,16,BLMSite16,KitFox,6,2,8,0.75,0.25,Shrub
+636,BLM,Site,16,BLMSite16,KitFox,0,1,1,0,1,Shrub
+637,BLM,Site,16,BLMSite16,KitFox,2,2,3,0.666666667,0.666666667,Shrub
+674,BLM,Site,16,BLMSite16,KitFox,3,3,3,1,1,Shrub
+402,BLM,Site,164,BLMSite164,KitFox,3,3,3,1,1,Shrub
+409,BLM,Site,17,BLMSite17,KitFox,3,3,3,1,1,Shrub
+424,BLM,Site,17,BLMSite17,KitFox,3,2,3,1,0.666666667,Shrub
+425,BLM,Site,17,BLMSite17,KitFox,4,2,4,1,0.5,Shrub
+431,BLM,Site,17,BLMSite17,KitFox,3,1,3,1,0.333333333,Shrub
+432,BLM,Site,17,BLMSite17,KitFox,0,0,1,0,0,Shrub
+434,BLM,Site,17,BLMSite17,KitFox,3,2,5,0.6,0.4,Shrub
+437,BLM,Site,17,BLMSite17,KitFox,2,2,3,0.666666667,0.666666667,Shrub
+568,BLM,Site,172,BLMSite172,KitFox,1,1,1,1,1,Shrub
+569,BLM,Site,172,BLMSite172,KitFox,1,1,1,1,1,Shrub
+570,BLM,Site,172,BLMSite172,KitFox,1,1,1,1,1,Shrub
+578,BLM,Site,172,BLMSite172,KitFox,1,2,2,0.5,1,Shrub
+585,BLM,Site,172,BLMSite172,KitFox,0,1,1,0,1,Shrub
+586,BLM,Site,172,BLMSite172,KitFox,0,1,1,0,1,Shrub
+879,BLM,Site,172,BLMSite172,KitFox,0,1,1,0,1,Shrub
+36,BLM,Site,175,BLMSite175,KitFox,5,4,7,0.714285714,0.571428571,Shrub
+37,BLM,Site,175,BLMSite175,KitFox,6,5,6,1,0.833333333,Shrub
+38,BLM,Site,175,BLMSite175,KitFox,4,4,6,0.666666667,0.666666667,Shrub
+39,BLM,Site,175,BLMSite175,KitFox,4,4,5,0.8,0.8,Shrub
+41,BLM,Site,175,BLMSite175,KitFox,5,3,6,0.833333333,0.5,Shrub
+42,BLM,Site,175,BLMSite175,KitFox,3,0,3,1,0,Shrub
+73,BLM,Site,175,BLMSite175,KitFox,15,11,18,0.833333333,0.611111111,Shrub
+74,BLM,Site,175,BLMSite175,KitFox,0,0,2,0,0,Shrub
+78,BLM,Site,175,BLMSite175,KitFox,3,3,3,1,1,Shrub
+79,BLM,Site,175,BLMSite175,KitFox,3,3,5,0.6,0.6,Shrub
+101,BLM,Site,175,BLMSite175,KitFox,2,0,3,0.666666667,0,Shrub
+563,BLM,Site,175,BLMSite175,KitFox,2,2,2,1,1,Shrub
+564,BLM,Site,175,BLMSite175,KitFox,2,1,2,1,0.5,Shrub
+579,BLM,Site,175,BLMSite175,KitFox,1,0,1,1,0,Shrub
+583,BLM,Site,175,BLMSite175,KitFox,2,1,2,1,0.5,Shrub
+584,BLM,Site,175,BLMSite175,KitFox,2,1,2,1,0.5,Shrub
+588,BLM,Site,175,BLMSite175,KitFox,1,0,1,1,0,Shrub
+590,BLM,Site,175,BLMSite175,KitFox,1,1,1,1,1,Shrub
+591,BLM,Site,175,BLMSite175,KitFox,3,0,6,0.5,0,Shrub
+597,BLM,Site,175,BLMSite175,KitFox,2,0,3,0.666666667,0,Shrub
+602,BLM,Site,175,BLMSite175,KitFox,1,0,1,1,0,Shrub
+606,BLM,Site,175,BLMSite175,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+863,BLM,Site,175,BLMSite175,KitFox,4,2,6,0.666666667,0.333333333,Shrub
+897,BLM,Site,175,BLMSite175,KitFox,1,0,4,0.25,0,Shrub
+909,BLM,Site,175,BLMSite175,KitFox,1,0,1,1,0,Shrub
+303,BLM,Site,177,BLMSite177,KitFox,9,9,9,1,1,Shrub
+304,BLM,Site,177,BLMSite177,KitFox,11,8,12,0.916666667,0.666666667,Shrub
+305,BLM,Site,177,BLMSite177,KitFox,1,0,2,0.5,0,Shrub
+309,BLM,Site,177,BLMSite177,KitFox,9,9,9,1,1,Shrub
+351,BLM,Site,177,BLMSite177,KitFox,6,6,9,0.666666667,0.666666667,Shrub
+353,BLM,Site,177,BLMSite177,KitFox,5,10,10,0.5,1,Shrub
+357,BLM,Site,177,BLMSite177,KitFox,3,3,6,0.5,0.5,Shrub
+844,BLM,Site,177,BLMSite177,KitFox,0,0,1,0,0,Shrub
+850,BLM,Site,177,BLMSite177,KitFox,0,0,1,0,0,Shrub
+851,BLM,Site,177,BLMSite177,KitFox,0,0,2,0,0,Shrub
+880,BLM,Site,177,BLMSite177,KitFox,4,5,5,0.8,1,Shrub
+881,BLM,Site,177,BLMSite177,KitFox,3,6,6,0.5,1,Shrub
+895,BLM,Site,177,BLMSite177,KitFox,4,4,6,0.666666667,0.666666667,Shrub
+899,BLM,Site,177,BLMSite177,KitFox,3,6,8,0.375,0.75,Shrub
+912,BLM,Site,177,BLMSite177,KitFox,1,2,3,0.333333333,0.666666667,Shrub
+963,BLM,Site,18,BLMSite18,KitFox,0,3,3,0,1,Shrub
+533,BLM,Site,184,BLMSite184,KitFox,3,3,3,1,1,Shrub
+539,BLM,Site,184,BLMSite184,KitFox,5,3,6,0.833333333,0.5,Shrub
+551,BLM,Site,184,BLMSite184,KitFox,3,3,4,0.75,0.75,Shrub
+552,BLM,Site,184,BLMSite184,KitFox,1,1,3,0.333333333,0.333333333,Shrub
+589,BLM,Site,184,BLMSite184,KitFox,4,5,5,0.8,1,Shrub
+600,BLM,Site,184,BLMSite184,KitFox,0,1,1,0,1,Shrub
+612,BLM,Site,184,BLMSite184,KitFox,3,2,4,0.75,0.5,Shrub
+310,BLM,Site,187,BLMSite187,KitFox,6,6,6,1,1,Shrub
+55,BLM,Site,190,BLMSite190,KitFox,5,0,6,0.833333333,0,Shrub
+56,BLM,Site,190,BLMSite190,KitFox,1,0,1,1,0,Shrub
+126,BLM,Site,190,BLMSite190,KitFox,2,3,3,0.666666667,1,Shrub
+131,BLM,Site,190,BLMSite190,KitFox,5,2,6,0.833333333,0.333333333,Shrub
+170,BLM,Site,190,BLMSite190,KitFox,3,3,3,1,1,Shrub
+201,BLM,Site,190,BLMSite190,KitFox,3,2,3,1,0.666666667,Shrub
+207,BLM,Site,190,BLMSite190,KitFox,3,5,6,0.5,0.833333333,Shrub
+947,BLM,Site,22,BLMSite22,KitFox,7,6,7,1,0.857142857,Shrub
+953,BLM,Site,22,BLMSite22,KitFox,0,0,6,0,0,Shrub
+401,BLM,Site,23,BLMSite23,KitFox,3,0,3,1,0,Shrub
+438,BLM,Site,23,BLMSite23,KitFox,3,3,3,1,1,Shrub
+397,BLM,Site,26,BLMSite26,KitFox,3,3,6,0.5,0.5,Shrub
+412,BLM,Site,26,BLMSite26,KitFox,6,6,6,1,1,Shrub
+154,BLM,Site,27,BLMSite27,KitFox,3,2,3,1,0.666666667,Shrub
+188,BLM,Site,27,BLMSite27,KitFox,5,6,9,0.555555556,0.666666667,Shrub
+203,BLM,Site,27,BLMSite27,KitFox,1,2,3,0.333333333,0.666666667,Shrub
+386,BLM,Site,27,BLMSite27,KitFox,0,0,1,0,0,Shrub
+389,BLM,Site,27,BLMSite27,KitFox,2,2,3,0.666666667,0.666666667,Shrub
+404,BLM,Site,27,BLMSite27,KitFox,0,0,3,0,0,Shrub
+71,BLM,Site,3,BLMSite3,KitFox,0,1,1,0,1,Shrub
+88,BLM,Site,3,BLMSite3,KitFox,3,0,3,1,0,Shrub
+89,BLM,Site,3,BLMSite3,KitFox,0,0,3,0,0,Shrub
+120,BLM,Site,3,BLMSite3,KitFox,1,0,1,1,0,Shrub
+652,BLM,Site,33,BLMSite33,KitFox,5,3,6,0.833333333,0.5,Shrub
+676,BLM,Site,33,BLMSite33,KitFox,3,2,3,1,0.666666667,Shrub
+840,BLM,Site,33,BLMSite33,KitFox,5,3,6,0.833333333,0.5,Shrub
+841,BLM,Site,33,BLMSite33,KitFox,3,2,3,1,0.666666667,Shrub
+949,BLM,Site,33,BLMSite33,KitFox,1,1,2,0.5,0.5,Shrub
+950,BLM,Site,33,BLMSite33,KitFox,3,3,3,1,1,Shrub
+951,BLM,Site,33,BLMSite33,KitFox,0,0,5,0,0,Shrub
+952,BLM,Site,33,BLMSite33,KitFox,3,3,3,1,1,Shrub
+973,BLM,Site,33,BLMSite33,KitFox,3,0,3,1,0,Shrub
+977,BLM,Site,33,BLMSite33,KitFox,3,0,3,1,0,Shrub
+978,BLM,Site,33,BLMSite33,KitFox,1,0,3,0.333333333,0,Shrub
+983,BLM,Site,33,BLMSite33,KitFox,3,0,3,1,0,Shrub
+1005,BLM,Site,33,BLMSite33,KitFox,3,1,3,1,0.333333333,Shrub
+1006,BLM,Site,33,BLMSite33,KitFox,3,5,5,0.6,1,Shrub
+100,BLM,Site,37,BLMSite37,KitFox,0,0,1,0,0,Shrub
+938,BLM,Site,39,BLMSite39,KitFox,1,2,3,0.333333333,0.666666667,Shrub
+940,BLM,Site,39,BLMSite39,KitFox,1,1,1,1,1,Shrub
+964,BLM,Site,39,BLMSite39,KitFox,3,4,6,0.5,0.666666667,Shrub
+969,BLM,Site,39,BLMSite39,KitFox,0,3,3,0,1,Shrub
+970,BLM,Site,39,BLMSite39,KitFox,1,0,1,1,0,Shrub
+974,BLM,Site,39,BLMSite39,KitFox,3,5,6,0.5,0.833333333,Shrub
+988,BLM,Site,39,BLMSite39,KitFox,2,3,3,0.666666667,1,Shrub
+343,BLM,Site,45,BLMSite45,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+1003,BLM,Site,45,BLMSite45,KitFox,1,3,3,0.333333333,1,Shrub
+334,BLM,Site,46,BLMSite46,KitFox,3,1,6,0.5,0.166666667,Shrub
+356,BLM,Site,46,BLMSite46,KitFox,1,1,2,0.5,0.5,Shrub
+358,BLM,Site,46,BLMSite46,KitFox,4,4,4,1,1,Shrub
+372,BLM,Site,46,BLMSite46,KitFox,3,0,3,1,0,Shrub
+375,BLM,Site,46,BLMSite46,KitFox,3,3,3,1,1,Shrub
+934,BLM,Site,49,BLMSite49,KitFox,7,11,11,0.636363636,1,Shrub
+935,BLM,Site,49,BLMSite49,KitFox,3,3,3,1,1,Shrub
+936,BLM,Site,49,BLMSite49,KitFox,6,6,8,0.75,0.75,Shrub
+944,BLM,Site,49,BLMSite49,KitFox,3,2,3,1,0.666666667,Shrub
+991,BLM,Site,49,BLMSite49,KitFox,6,6,6,1,1,Shrub
+965,BLM,Site,52,BLMSite52,KitFox,1,6,6,0.166666667,1,Shrub
+967,BLM,Site,52,BLMSite52,KitFox,1,3,3,0.333333333,1,Shrub
+611,BLM,Site,53,BLMSite53,KitFox,1,0,2,0.5,0,Shrub
+616,BLM,Site,53,BLMSite53,KitFox,4,2,5,0.8,0.4,Shrub
+617,BLM,Site,53,BLMSite53,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+618,BLM,Site,53,BLMSite53,KitFox,0,0,1,0,0,Shrub
+620,BLM,Site,53,BLMSite53,KitFox,1,1,1,1,1,Shrub
+625,BLM,Site,53,BLMSite53,KitFox,1,0,3,0.333333333,0,Shrub
+626,BLM,Site,53,BLMSite53,KitFox,1,3,3,0.333333333,1,Shrub
+639,BLM,Site,53,BLMSite53,KitFox,2,1,2,1,0.5,Shrub
+658,BLM,Site,53,BLMSite53,KitFox,0,1,1,0,1,Shrub
+925,BLM,Site,54,BLMSite54,KitFox,2,0,2,1,0,Shrub
+926,BLM,Site,54,BLMSite54,KitFox,0,0,1,0,0,Shrub
+958,BLM,Site,54,BLMSite54,KitFox,0,0,5,0,0,Shrub
+985,BLM,Site,54,BLMSite54,KitFox,2,3,3,0.666666667,1,Shrub
+867,BLM,Site,59,BLMSite59,KitFox,7,6,9,0.777777778,0.666666667,Shrub
+908,BLM,Site,59,BLMSite59,KitFox,8,9,12,0.666666667,0.75,Shrub
+916,BLM,Site,59,BLMSite59,KitFox,3,3,3,1,1,Shrub
+338,BLM,Site,60,BLMSite60,KitFox,4,5,6,0.666666667,0.833333333,Shrub
+339,BLM,Site,60,BLMSite60,KitFox,0,0,1,0,0,Shrub
+373,BLM,Site,60,BLMSite60,KitFox,9,9,9,1,1,Shrub
+374,BLM,Site,60,BLMSite60,KitFox,3,4,4,0.75,1,Shrub
+924,BLM,Site,60,BLMSite60,KitFox,5,3,7,0.714285714,0.428571429,Shrub
+955,BLM,Site,60,BLMSite60,KitFox,3,3,6,0.5,0.5,Shrub
+981,BLM,Site,60,BLMSite60,KitFox,2,3,3,0.666666667,1,Shrub
+941,BLM,Site,61,BLMSite61,KitFox,0,3,3,0,1,Shrub
+942,BLM,Site,61,BLMSite61,KitFox,0,0,3,0,0,Shrub
+957,BLM,Site,61,BLMSite61,KitFox,1,1,1,1,1,Shrub
+989,BLM,Site,61,BLMSite61,KitFox,5,4,6,0.833333333,0.666666667,Shrub
+992,BLM,Site,61,BLMSite61,KitFox,0,3,3,0,1,Shrub
+993,BLM,Site,61,BLMSite61,KitFox,1,1,1,1,1,Shrub
+376,BLM,Site,65,BLMSite65,KitFox,1,1,3,0.333333333,0.333333333,Shrub
+411,BLM,Site,65,BLMSite65,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+417,BLM,Site,65,BLMSite65,KitFox,1,1,1,1,1,Shrub
+419,BLM,Site,65,BLMSite65,KitFox,2,2,2,1,1,Shrub
+613,BLM,Site,67,BLMSite67,KitFox,3,1,3,1,0.333333333,Shrub
+642,BLM,Site,68,BLMSite68,KitFox,2,0,4,0.5,0,Shrub
+659,BLM,Site,68,BLMSite68,KitFox,0,0,2,0,0,Shrub
+945,BLM,Site,69,BLMSite69,KitFox,3,0,3,1,0,Shrub
+67,BLM,Site,74,BLMSite74,KitFox,4,2,9,0.444444444,0.222222222,Shrub
+80,BLM,Site,74,BLMSite74,KitFox,5,1,6,0.833333333,0.166666667,Shrub
+135,BLM,Site,74,BLMSite74,KitFox,5,0,6,0.833333333,0,Shrub
+140,BLM,Site,74,BLMSite74,KitFox,3,0,3,1,0,Shrub
+144,BLM,Site,74,BLMSite74,KitFox,3,0,3,1,0,Shrub
+157,BLM,Site,74,BLMSite74,KitFox,3,0,3,1,0,Shrub
+194,BLM,Site,74,BLMSite74,KitFox,4,6,6,0.666666667,1,Shrub
+608,BLM,Site,75,BLMSite75,KitFox,1,0,1,1,0,Shrub
+54,BLM,Site,76,BLMSite76,KitFox,0,1,1,0,1,Shrub
+58,BLM,Site,76,BLMSite76,KitFox,1,1,5,0.2,0.2,Shrub
+145,BLM,Site,76,BLMSite76,KitFox,3,3,3,1,1,Shrub
+197,BLM,Site,76,BLMSite76,KitFox,0,0,3,0,0,Shrub
+314,BLM,Site,76,BLMSite76,KitFox,3,2,3,1,0.666666667,Shrub
+326,BLM,Site,76,BLMSite76,KitFox,3,1,3,1,0.333333333,Shrub
+327,BLM,Site,76,BLMSite76,KitFox,3,1,3,1,0.333333333,Shrub
+332,BLM,Site,76,BLMSite76,KitFox,9,9,9,1,1,Shrub
+558,BLM,Site,76,BLMSite76,KitFox,0,2,2,0,1,Shrub
+593,BLM,Site,76,BLMSite76,KitFox,2,5,5,0.4,1,Shrub
+594,BLM,Site,76,BLMSite76,KitFox,0,2,2,0,1,Shrub
+607,BLM,Site,76,BLMSite76,KitFox,2,2,3,0.666666667,0.666666667,Shrub
+847,BLM,Site,76,BLMSite76,KitFox,4,4,4,1,1,Shrub
+871,BLM,Site,76,BLMSite76,KitFox,4,5,5,0.8,1,Shrub
+872,BLM,Site,76,BLMSite76,KitFox,3,3,5,0.6,0.6,Shrub
+873,BLM,Site,76,BLMSite76,KitFox,3,3,3,1,1,Shrub
+874,BLM,Site,76,BLMSite76,KitFox,2,5,5,0.4,1,Shrub
+901,BLM,Site,76,BLMSite76,KitFox,3,3,3,1,1,Shrub
+325,BLM,Site,77,BLMSite77,KitFox,3,3,3,1,1,Shrub
+929,BLM,Site,77,BLMSite77,KitFox,2,1,4,0.5,0.25,Shrub
+932,BLM,Site,77,BLMSite77,KitFox,1,0,3,0.333333333,0,Shrub
+933,BLM,Site,77,BLMSite77,KitFox,0,3,3,0,1,Shrub
+939,BLM,Site,77,BLMSite77,KitFox,1,3,6,0.166666667,0.5,Shrub
+943,BLM,Site,77,BLMSite77,KitFox,2,3,3,0.666666667,1,Shrub
+984,BLM,Site,77,BLMSite77,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+1004,BLM,Site,77,BLMSite77,KitFox,2,1,5,0.4,0.2,Shrub
+1008,BLM,Site,77,BLMSite77,KitFox,0,3,3,0,1,Shrub
+377,BLM,Site,80,BLMSite80,KitFox,2,3,3,0.666666667,1,Shrub
+634,BLM,Site,80,BLMSite80,KitFox,3,3,3,1,1,Shrub
+422,BLM,Site,81,BLMSite81,KitFox,0,1,3,0,0.333333333,Shrub
+81,BLM,Site,83,BLMSite83,KitFox,6,3,12,0.5,0.25,Shrub
+107,BLM,Site,83,BLMSite83,KitFox,6,6,6,1,1,Shrub
+119,BLM,Site,84,BLMSite84,KitFox,5,6,9,0.555555556,0.666666667,Shrub
+171,BLM,Site,84,BLMSite84,KitFox,7,3,9,0.777777778,0.333333333,Shrub
+176,BLM,Site,84,BLMSite84,KitFox,10,8,12,0.833333333,0.666666667,Shrub
+177,BLM,Site,84,BLMSite84,KitFox,0,0,2,0,0,Shrub
+178,BLM,Site,84,BLMSite84,KitFox,2,4,4,0.5,1,Shrub
+179,BLM,Site,84,BLMSite84,KitFox,0,0,1,0,0,Shrub
+180,BLM,Site,84,BLMSite84,KitFox,1,0,3,0.333333333,0,Shrub
+181,BLM,Site,84,BLMSite84,KitFox,0,0,1,0,0,Shrub
+182,BLM,Site,84,BLMSite84,KitFox,0,0,3,0,0,Shrub
+190,BLM,Site,84,BLMSite84,KitFox,4,5,6,0.666666667,0.833333333,Shrub
+622,BLM,Site,84,BLMSite84,KitFox,0,0,1,0,0,Shrub
+627,BLM,Site,84,BLMSite84,KitFox,0,0,1,0,0,Shrub
+307,BLM,Site,88,BLMSite88,KitFox,0,1,1,0,1,Shrub
+318,BLM,Site,88,BLMSite88,KitFox,1,1,1,1,1,Shrub
+320,BLM,Site,88,BLMSite88,KitFox,1,1,1,1,1,Shrub
+322,BLM,Site,88,BLMSite88,KitFox,1,1,2,0.5,0.5,Shrub
+324,BLM,Site,88,BLMSite88,KitFox,0,0,1,0,0,Shrub
+846,BLM,Site,88,BLMSite88,KitFox,4,3,6,0.666666667,0.5,Shrub
+604,BLM,Site,89,BLMSite89,KitFox,0,0,2,0,0,Shrub
+360,BLM,Site,90,BLMSite90,KitFox,3,3,3,1,1,Shrub
+852,BLM,Site,90,BLMSite90,KitFox,1,3,6,0.166666667,0.5,Shrub
+922,BLM,Site,90,BLMSite90,KitFox,0,3,3,0,1,Shrub
+529,BLM,Site,91,BLMSite91,KitFox,5,3,6,0.833333333,0.5,Shrub
+538,BLM,Site,91,BLMSite91,KitFox,0,1,1,0,1,Shrub
+581,BLM,Site,91,BLMSite91,KitFox,3,3,3,1,1,Shrub
+595,BLM,Site,91,BLMSite91,KitFox,1,3,3,0.333333333,1,Shrub
+601,BLM,Site,91,BLMSite91,KitFox,3,0,3,1,0,Shrub
+313,BLM,Site,92,BLMSite92,KitFox,0,0,1,0,0,Shrub
+316,BLM,Site,93,BLMSite93,KitFox,3,3,3,1,1,Shrub
+333,BLM,Site,93,BLMSite93,KitFox,1,0,1,1,0,Shrub
+336,BLM,Site,93,BLMSite93,KitFox,1,0,3,0.333333333,0,Shrub
+344,BLM,Site,93,BLMSite93,KitFox,2,1,2,1,0.5,Shrub
+363,BLM,Site,93,BLMSite93,KitFox,0,0,1,0,0,Shrub
+630,BLM,Site,93,BLMSite93,KitFox,2,0,3,0.666666667,0,Shrub
+645,BLM,Site,93,BLMSite93,KitFox,0,0,3,0,0,Shrub
+646,BLM,Site,93,BLMSite93,KitFox,0,0,1,0,0,Shrub
+330,BLM,Site,94,BLMSite94,KitFox,3,1,3,1,0.333333333,Shrub
+331,BLM,Site,94,BLMSite94,KitFox,0,0,1,0,0,Shrub
+345,BLM,Site,94,BLMSite94,KitFox,1,1,1,1,1,Shrub
+352,BLM,Site,94,BLMSite94,KitFox,3,2,3,1,0.666666667,Shrub
+46,BLM,Site,95,BLMSite95,KitFox,3,3,6,0.5,0.5,Shrub
+82,BLM,Site,95,BLMSite95,KitFox,0,0,5,0,0,Shrub
+104,BLM,Site,95,BLMSite95,KitFox,3,1,4,0.75,0.25,Shrub
+169,BLM,Site,95,BLMSite95,KitFox,1,1,3,0.333333333,0.333333333,Shrub
+930,BLM,Site,95,BLMSite95,KitFox,6,6,9,0.666666667,0.666666667,Shrub
+931,BLM,Site,95,BLMSite95,KitFox,3,3,3,1,1,Shrub
+962,BLM,Site,95,BLMSite95,KitFox,5,5,6,0.833333333,0.833333333,Shrub
+976,BLM,Site,95,BLMSite95,KitFox,2,3,3,0.666666667,1,Shrub
+667,BLM,Site,96,BLMSite96,KitFox,0,0,3,0,0,Shrub
+614,BLM,Site,97,BLMSite97,KitFox,1,3,3,0.333333333,1,Shrub
+631,BLM,Site,97,BLMSite97,KitFox,3,3,3,1,1,Shrub
+651,BLM,Site,97,BLMSite97,KitFox,5,4,7,0.714285714,0.571428571,Shrub
+388,BLM,Site,98,BLMSite98,KitFox,0,1,1,0,1,Shrub
+405,BLM,Site,98,BLMSite98,KitFox,9,9,10,0.9,0.9,Shrub
+420,BLM,Site,98,BLMSite98,KitFox,3,4,4,0.75,1,Shrub
+430,BLM,Site,98,BLMSite98,KitFox,3,3,4,0.75,0.75,Shrub
+927,BLM,Site,99,BLMSite99,KitFox,0,0,2,0,0,Shrub
+946,BLM,Site,99,BLMSite99,KitFox,2,0,3,0.666666667,0,Shrub
+959,BLM,Site,99,BLMSite99,KitFox,3,3,3,1,1,Shrub
+968,BLM,Site,99,BLMSite99,KitFox,0,3,6,0,0.5,Shrub
+994,BLM,Site,99,BLMSite99,KitFox,0,0,2,0,0,Shrub
+485,Dugway,Site,12W,DugwaySite12W,KitFox,1,2,2,0.5,1,Shrub
+451,Dugway,Site,17,DugwaySite17,KitFox,3,0,3,1,0,Shrub
+285,Dugway,Site,22,DugwaySite22,KitFox,3,3,3,1,1,Shrub
+286,Dugway,Site,22,DugwaySite22,KitFox,3,3,3,1,1,Shrub
+291,Dugway,Site,22,DugwaySite22,KitFox,7,7,8,0.875,0.875,Shrub
+654,Hanksville,Site,25,HanksvilleSite25,KitFox,7,4,9,0.777777778,0.444444444,Shrub
+655,Hanksville,Site,25,HanksvilleSite25,KitFox,3,3,3,1,1,Shrub
+656,Hanksville,Site,25,HanksvilleSite25,KitFox,3,0,3,1,0,Shrub
+657,Hanksville,Site,25,HanksvilleSite25,KitFox,3,2,3,1,0.666666667,Shrub
+675,Hanksville,Site,25,HanksvilleSite25,KitFox,3,2,3,1,0.666666667,Shrub
+670,Hanksville,Site,69,HanksvilleSite69,KitFox,2,0,3,0.666666667,0,Shrub
+255,Hill Air Force,Site,B3,Hill Air ForceSiteB3,KitFox,8,8,9,0.888888889,0.888888889,Shrub
+212,Hill Air Force,Site,C2,Hill Air ForceSiteC2,KitFox,3,0,3,1,0,Shrub
+273,Hill Air Force,Site,D3,Hill Air ForceSiteD3,KitFox,9,9,9,1,1,Shrub
+275,Hill Air Force,Site,D3,Hill Air ForceSiteD3,KitFox,6,6,6,1,1,Shrub
+778,Hill Air Force,Site,E3,Hill Air ForceSiteE3,KitFox,0,0,1,0,0,Shrub
+782,Hill Air Force,Site,E3,Hill Air ForceSiteE3,KitFox,3,1,3,1,0.333333333,Shrub
+225,Hill Air Force,Site,H22,Hill Air ForceSiteH22,KitFox,6,6,9,0.666666667,0.666666667,Shrub
+257,Hill Air Force,Site,H22,Hill Air ForceSiteH22,KitFox,2,3,3,0.666666667,1,Shrub
+215,Hill Air Force,Site,I11,Hill Air ForceSiteI11,KitFox,7,8,9,0.777777778,0.888888889,Shrub
+256,Hill Air Force,Site,I11,Hill Air ForceSiteI11,KitFox,6,6,6,1,1,Shrub
+217,Hill Air Force,Site,O11,Hill Air ForceSiteO11,KitFox,3,0,3,1,0,Shrub
+241,Hill Air Force,Site,O11,Hill Air ForceSiteO11,KitFox,6,2,6,1,0.333333333,Shrub
+242,Hill Air Force,Site,O11,Hill Air ForceSiteO11,KitFox,0,0,2,0,0,Shrub
+43,Hill Air Force,Site,S2,Hill Air ForceSiteS2,KitFox,3,3,3,1,1,Shrub
+27,Hill Air Force,Site,S8,Hill Air ForceSiteS8,KitFox,2,5,6,0.333333333,0.833333333,Shrub
+99,Hill Air Force,Site,S8,Hill Air ForceSiteS8,KitFox,3,3,3,1,1,Shrub
+3,Hill Air Force,Site,T_7,Hill Air ForceSiteT_7,KitFox,4,4,5,0.8,0.8,Shrub
+31,Hill Air Force,Site,T_7,Hill Air ForceSiteT_7,KitFox,0,1,1,0,1,Shrub
+77,Hill Air Force,Site,T_7,Hill Air ForceSiteT_7,KitFox,4,2,4,1,0.5,Shrub
+21,Hill Air Force,Site,T4,Hill Air ForceSiteT4,KitFox,3,0,3,1,0,Shrub
+156,Hill Air Force,Site,T4,Hill Air ForceSiteT4,KitFox,0,0,3,0,0,Shrub
+166,Hill Air Force,Site,T4,Hill Air ForceSiteT4,KitFox,0,3,3,0,1,Shrub
+266,Hill Air Force,Site,T4,Hill Air ForceSiteT4,KitFox,1,0,1,1,0,Shrub
+270,Hill Air Force,Site,T7,Hill Air ForceSiteT7,KitFox,6,7,12,0.5,0.583333333,Shrub
+734,Hill Air Force,Site,U6,Hill Air ForceSiteU6,KitFox,1,0,3,0.333333333,0,Shrub
+739,Hill Air Force,Site,U6,Hill Air ForceSiteU6,KitFox,6,2,6,1,0.333333333,Shrub
+742,Hill Air Force,Site,U6,Hill Air ForceSiteU6,KitFox,3,3,3,1,1,Shrub
+755,Hill Air Force,Site,U6,Hill Air ForceSiteU6,KitFox,3,2,3,1,0.666666667,Shrub
+756,Hill Air Force,Site,U6,Hill Air ForceSiteU6,KitFox,3,0,4,0.75,0,Shrub
+757,Hill Air Force,Site,U6,Hill Air ForceSiteU6,KitFox,3,1,3,1,0.333333333,Shrub
+28,Hill Air Force,Site,U9,Hill Air ForceSiteU9,KitFox,3,3,3,1,1,Shrub
+139,Hill Air Force,Site,U9,Hill Air ForceSiteU9,KitFox,1,1,1,1,1,Shrub
+29,Hill Air Force,Site,V3,Hill Air ForceSiteV3,KitFox,3,3,3,1,1,Shrub
+30,Hill Air Force,Site,V3,Hill Air ForceSiteV3,KitFox,3,3,3,1,1,Shrub
+754,Hill Air Force,Site,V7,Hill Air ForceSiteV7,KitFox,3,3,3,1,1,Shrub
+763,Hill Air Force,Site,V7,Hill Air ForceSiteV7,KitFox,2,0,3,0.666666667,0,Shrub
+764,Hill Air Force,Site,V7,Hill Air ForceSiteV7,KitFox,5,6,6,0.833333333,1,Shrub
+767,Hill Air Force,Site,V7,Hill Air ForceSiteV7,KitFox,3,0,3,1,0,Shrub
+774,Hill Air Force,Site,V7,Hill Air ForceSiteV7,KitFox,3,3,3,1,1,Shrub
+795,Lund,Site,61,LundSite61,KitFox,1,1,2,0.5,0.5,Shrub
+796,Lund,Site,61,LundSite61,KitFox,3,3,4,0.75,0.75,Shrub
+799,Lund,Site,61,LundSite61,KitFox,12,12,13,0.923076923,0.923076923,Shrub
+828,Lund,Site,61,LundSite61,KitFox,1,0,3,0.333333333,0,Shrub
+829,Lund,Site,61,LundSite61,KitFox,1,1,3,0.333333333,0.333333333,Shrub
+830,Lund,Site,61,LundSite61,KitFox,0,0,2,0,0,Shrub
+833,Lund,Site,61,LundSite61,KitFox,6,6,9,0.666666667,0.666666667,Shrub
+836,Lund,Site,61,LundSite61,KitFox,3,3,4,0.75,0.75,Shrub
+824,Lund,Site,64,LundSite64,KitFox,3,2,3,1,0.666666667,Shrub
+825,Lund,Site,64,LundSite64,KitFox,7,4,9,0.777777778,0.444444444,Shrub
+831,Lund,Site,64,LundSite64,KitFox,0,0,1,0,0,Shrub
+816,Lund,Site,72,LundSite72,KitFox,3,0,3,1,0,Shrub
+820,Lund,Site,77,LundSite77,KitFox,2,0,3,0.666666667,0,Shrub
+457,Lytle,Site,14,LytleSite14,KitFox,9,6,9,1,0.666666667,Shrub
+466,Lytle,Site,14,LytleSite14,KitFox,2,0,6,0.333333333,0,Shrub
+473,Lytle,Site,14,LytleSite14,KitFox,3,2,3,1,0.666666667,Shrub
+477,Lytle,Site,14,LytleSite14,KitFox,1,2,2,0.5,1,Shrub
+490,Lytle,Site,14,LytleSite14,KitFox,3,3,3,1,1,Shrub
+444,Lytle,Site,27,LytleSite27,KitFox,3,3,3,1,1,Shrub
+189,Lytle,Site,68,LytleSite68,KitFox,1,0,1,1,0,Shrub
+481,Lytle,Site,68,LytleSite68,KitFox,0,3,3,0,1,Shrub
+482,Lytle,Site,68,LytleSite68,KitFox,1,0,3,0.333333333,0,Shrub
+488,Lytle,Site,68,LytleSite68,KitFox,0,0,2,0,0,Shrub
+489,Lytle,Site,68,LytleSite68,KitFox,1,0,3,0.333333333,0,Shrub
+779,Thomas Range,Site,10,Thomas RangeSite10,KitFox,4,4,9,0.444444444,0.444444444,Shrub
+703,Thomas Range,Site,14,Thomas RangeSite14,KitFox,5,6,6,0.833333333,1,Shrub
+686,Thomas Range,Site,20,Thomas RangeSite20,KitFox,1,0,1,1,0,Shrub
+694,Thomas Range,Site,20,Thomas RangeSite20,KitFox,3,2,3,1,0.666666667,Shrub
+728,Thomas Range,Site,20,Thomas RangeSite20,KitFox,1,0,3,0.333333333,0,Shrub
+751,Thomas Range,Site,20,Thomas RangeSite20,KitFox,3,3,5,0.6,0.6,Shrub
+758,Thomas Range,Site,20,Thomas RangeSite20,KitFox,1,0,6,0.166666667,0,Shrub
+707,Thomas Range,Site,21,Thomas RangeSite21,KitFox,3,1,3,1,0.333333333,Shrub
+709,Thomas Range,Site,21,Thomas RangeSite21,KitFox,8,8,9,0.888888889,0.888888889,Shrub
+710,Thomas Range,Site,21,Thomas RangeSite21,KitFox,2,1,3,0.666666667,0.333333333,Shrub
+699,Thomas Range,Site,27,Thomas RangeSite27,KitFox,3,3,3,1,1,Shrub
+690,Thomas Range,Site,28,Thomas RangeSite28,KitFox,3,3,3,1,1,Shrub
+691,Thomas Range,Site,28,Thomas RangeSite28,KitFox,3,4,4,0.75,1,Shrub
+753,Thomas Range,Site,28,Thomas RangeSite28,KitFox,0,0,2,0,0,Shrub
+683,Thomas Range,Site,40,Thomas RangeSite40,KitFox,3,0,3,1,0,Shrub
+735,Thomas Range,Site,40,Thomas RangeSite40,KitFox,0,3,6,0,0.5,Shrub
+759,Thomas Range,Site,40,Thomas RangeSite40,KitFox,2,0,3,0.666666667,0,Shrub
+687,Thomas Range,Site,42,Thomas RangeSite42,KitFox,4,2,4,1,0.5,Shrub
+689,Thomas Range,Site,42,Thomas RangeSite42,KitFox,3,2,3,1,0.666666667,Shrub
+695,Thomas Range,Site,42,Thomas RangeSite42,KitFox,3,3,5,0.6,0.6,Shrub
+702,Thomas Range,Site,42,Thomas RangeSite42,KitFox,0,0,3,0,0,Shrub
+713,Thomas Range,Site,42,Thomas RangeSite42,KitFox,0,1,1,0,1,Shrub
+719,Thomas Range,Site,42,Thomas RangeSite42,KitFox,3,3,3,1,1,Shrub
+720,Thomas Range,Site,42,Thomas RangeSite42,KitFox,0,0,3,0,0,Shrub
+781,Thomas Range,Site,5,Thomas RangeSite5,KitFox,22,12,23,0.956521739,0.52173913,Shrub
+744,Thomas Range,Site,50,Thomas RangeSite50,KitFox,1,3,6,0.166666667,0.5,Shrub
+745,Thomas Range,Site,50,Thomas RangeSite50,KitFox,1,2,2,0.5,1,Shrub
+746,Thomas Range,Site,50,Thomas RangeSite50,KitFox,0,2,2,0,1,Shrub
+684,Thomas Range,Site,53,Thomas RangeSite53,KitFox,2,0,2,1,0,Shrub
+696,Thomas Range,Site,53,Thomas RangeSite53,KitFox,1,0,1,1,0,Shrub
+697,Thomas Range,Site,53,Thomas RangeSite53,KitFox,1,0,3,0.333333333,0,Shrub
+698,Thomas Range,Site,53,Thomas RangeSite53,KitFox,2,4,4,0.5,1,Shrub
+700,Thomas Range,Site,53,Thomas RangeSite53,KitFox,3,3,6,0.5,0.5,Shrub
+704,Thomas Range,Site,53,Thomas RangeSite53,KitFox,3,2,3,1,0.666666667,Shrub
+705,Thomas Range,Site,53,Thomas RangeSite53,KitFox,1,1,3,0.333333333,0.333333333,Shrub
+706,Thomas Range,Site,53,Thomas RangeSite53,KitFox,3,3,3,1,1,Shrub
+708,Thomas Range,Site,53,Thomas RangeSite53,KitFox,1,3,3,0.333333333,1,Shrub
+711,Thomas Range,Site,53,Thomas RangeSite53,KitFox,3,3,3,1,1,Shrub
+714,Thomas Range,Site,65,Thomas RangeSite65,KitFox,3,0,7,0.428571429,0,Shrub
+716,Thomas Range,Site,81,Thomas RangeSite81,KitFox,4,4,6,0.666666667,0.666666667,Shrub
+740,Thomas Range,Site,91,Thomas RangeSite91,KitFox,5,0,6,0.833333333,0,Shrub
+534,West Water,Site,14,West WaterSite14,KitFox,3,1,5,0.6,0.2,Shrub
+524,West Water,Site,23,West WaterSite23,KitFox,4,2,6,0.666666667,0.333333333,Shrub
+555,West Water,Site,23,West WaterSite23,KitFox,6,5,6,1,0.833333333,Shrub
+565,West Water,Site,23,West WaterSite23,KitFox,3,0,9,0.333333333,0,Shrub
+531,West Water,Site,49,West WaterSite49,KitFox,4,3,4,1,0.75,Shrub
+549,West Water,Site,49,West WaterSite49,KitFox,2,0,3,0.666666667,0,Shrub
+587,West Water,Site,6,West WaterSite6,KitFox,1,0,1,1,0,Shrub
+49,BLM,Site,173,BLMSite173,KitFox,5,4,7,0.714285714,0.571428571,Barren
+50,BLM,Site,173,BLMSite173,KitFox,3,2,3,1,0.666666667,Barren
+75,BLM,Site,173,BLMSite173,KitFox,4,2,5,0.8,0.4,Barren
+142,BLM,Site,173,BLMSite173,KitFox,8,6,8,1,0.75,Barren
+47,BLM,Site,185,BLMSite185,KitFox,12,9,12,1,0.75,Barren
+57,BLM,Site,185,BLMSite185,KitFox,10,9,11,0.909090909,0.818181818,Barren
+93,BLM,Site,185,BLMSite185,KitFox,0,0,3,0,0,Barren
+94,BLM,Site,185,BLMSite185,KitFox,3,3,3,1,1,Barren
+102,BLM,Site,185,BLMSite185,KitFox,3,3,3,1,1,Barren
+125,BLM,Site,185,BLMSite185,KitFox,2,1,6,0.333333333,0.166666667,Barren
+129,BLM,Site,185,BLMSite185,KitFox,3,1,3,1,0.333333333,Barren
+133,BLM,Site,185,BLMSite185,KitFox,0,0,1,0,0,Barren
+159,BLM,Site,185,BLMSite185,KitFox,6,6,6,1,1,Barren
+160,BLM,Site,185,BLMSite185,KitFox,3,2,3,1,0.666666667,Barren
+532,BLM,Site,185,BLMSite185,KitFox,4,3,6,0.666666667,0.5,Barren
+573,BLM,Site,185,BLMSite185,KitFox,3,2,3,1,0.666666667,Barren
+574,BLM,Site,185,BLMSite185,KitFox,8,6,12,0.666666667,0.5,Barren
+575,BLM,Site,185,BLMSite185,KitFox,0,0,3,0,0,Barren
+483,Lytle,Site,18,LytleSite18,KitFox,0,1,1,0,1,Barren
+484,Lytle,Site,18,LytleSite18,KitFox,2,0,2,1,0,Barren
+453,Lytle,Site,26,LytleSite26,KitFox,9,6,12,0.75,0.5,Barren
+456,Lytle,Site,26,LytleSite26,KitFox,3,3,3,1,1,Barren
+467,Lytle,Site,26,LytleSite26,KitFox,3,3,3,1,1,Barren
+470,Lytle,Site,26,LytleSite26,KitFox,3,2,3,1,0.666666667,Barren
+487,Lytle,Site,26,LytleSite26,KitFox,12,11,14,0.857142857,0.785714286,Barren
+493,Lytle,Site,26,LytleSite26,KitFox,3,2,4,0.75,0.5,Barren
+508,Lytle,Site,26,LytleSite26,KitFox,3,0,3,1,0,Barren
+509,Lytle,Site,26,LytleSite26,KitFox,0,0,6,0,0,Barren
+794,Hill Air Force,Site,B4,Hill Air ForceSiteB4,Coyote,2,0,3,0.666666667,0,Unknown
+804,Hill Air Force,Site,B5,Hill Air ForceSiteB5,Coyote,6,3,6,1,0.5,Unknown
+766,Hill Air Force,Site,D15,Hill Air ForceSiteD15,Coyote,3,3,3,1,1,Unknown
+765,Hill Air Force,Site,M12,Hill Air ForceSiteM12,Coyote,3,3,3,1,1,Unknown
+784,Hill Air Force,Site,T10,Hill Air ForceSiteT10,Coyote,0,0,1,0,0,Unknown
+447,Lytle,Site,47,LytleSite47,Coyote,0,0,1,0,0,Unknown
+502,Lytle,Site,78,LytleSite78,Coyote,3,0,3,1,0,Unknown
+209,Hill Air Force,Site,B4,Hill Air ForceSiteB4,KitFox,2,1,3,0.666666667,0.333333333,Unknown
+210,Hill Air Force,Site,C7,Hill Air ForceSiteC7,KitFox,2,0,3,0.666666667,0,Unknown
+211,Hill Air Force,Site,C7,Hill Air ForceSiteC7,KitFox,3,1,3,1,0.333333333,Unknown
+224,Hill Air Force,Site,C7,Hill Air ForceSiteC7,KitFox,3,6,6,0.5,1,Unknown
+213,Hill Air Force,Site,D6,Hill Air ForceSiteD6,KitFox,7,8,9,0.777777778,0.888888889,Unknown
+214,Hill Air Force,Site,D6,Hill Air ForceSiteD6,KitFox,3,3,3,1,1,Unknown
+222,Hill Air Force,Site,D6,Hill Air ForceSiteD6,KitFox,3,2,4,0.75,0.5,Unknown
+237,Hill Air Force,Site,D6,Hill Air ForceSiteD6,KitFox,3,2,3,1,0.666666667,Unknown
+443,Lytle,Site,15,LytleSite15,KitFox,4,3,4,1,0.75,Unknown
+458,Lytle,Site,58,LytleSite58,KitFox,0,0,3,0,0,Unknown
+498,Lytle,Site,78,LytleSite78,KitFox,2,0,3,0.666666667,0,Unknown
